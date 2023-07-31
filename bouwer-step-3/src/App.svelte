@@ -2,8 +2,8 @@
 	import 'bootstrap/dist/css/bootstrap.css';
 	
 	//Load the promotion data and map each promotion into a universal object that could be used to create each Card
-	import { mappedPromotions } from './data/createPromotionData';
-	import {wellnessListIDs} from './data/wellnessListIDs';
+	import mappedPromotions from './input.json';
+	import {wellnessListIDs} from './wellnessListIDs';
 
 	import Filter from './Filter.svelte';
 	import Card from './Card.svelte';

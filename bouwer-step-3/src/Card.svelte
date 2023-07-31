@@ -1,5 +1,5 @@
 <script>
-    import {campaigns} from './data/campaigns';
+    import {campaigns} from './campaigns';
     import PriceComponent from './priceComponent.svelte';
 
     export let promotion;

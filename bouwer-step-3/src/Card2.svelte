@@ -1,6 +1,6 @@
 <script>
     
-    import { campaigns } from "./data/campaigns";
+    import { campaigns } from "./campaigns";
     export let promotion;
     let {image, title, location, url, campaignID} = promotion;
 

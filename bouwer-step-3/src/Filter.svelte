@@ -1,12 +1,12 @@
 <script>
-
     import { createEventDispatcher } from "svelte";
 
     //import the campaigns so that they can be printed in the options
-    import {campaigns} from './data/campaigns';
-    import {wellnessListIDs} from './data/wellnessListIDs';
-    import { numPromotionsForFilter } from './data/createPromotionData';
-    import { mappedPromotions } from './data/createPromotionData';
+    import {campaigns} from './campaigns';
+    import {wellnessListIDs} from './wellnessListIDs';
+    import mappedPromotions from './input.json';
+
+    //The numPromotionsForFilter is deleted in this project, maybe create new here, since before it came from the bouwer-step-2 project
 
     //numMatchedPromotionsOnSite and matchedPromotions are only for testing how many promotions match welness's on the current site
     let numMatchedPromotionsOnSite = 0;
@@ -47,9 +47,9 @@
     <label>
         <b>Selecteer een campagne:</b>
         <select class="form-select" bind:value={selectedCampaignID}>
-            <option value="all">Alle ({numPromotionsForFilter.all})</option>
+            <option value="all">Alle </option>
             {#each campaignsArray as [campaignID, {name}]}
-                <option value={campaignID}>{name} ({numPromotionsForFilter[name]})</option>
+                <option value={campaignID}>{name} </option>
             {/each}
         </select>
     </label>
