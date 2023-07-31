@@ -5,40 +5,35 @@ const vakantieVeilingenTradeTrackerJSON = require('../data/vakantieveilingen-tra
 const actievandedagTradetrackerJSON = require('../data/actievandedagTradetracker.json');
 const ticketveilingTradetrackerJSON = require('../data/ticketveilingTradetracker.json');
 const tripperTradetrackerJSON = require('../data/tripperTradetracker.json');
-// //Couldn't find usefull data for Zoweg, so commenting it out for now
+//Couldn't find usefull data for Zoweg, so commenting it out for now
 const zowegTradetrackerJSON = require('../data/zowegTradetracker.json');
 const ADWebwinkelDaisyconJSON = require('../data/ADWebwinkelDaisycon.json');
 const hotelspecialsTradetrackerJSON = require('../data/hotelspecialsTradetracker.json');
 
-
+//Create a promotions array to push all the affiliate promotions to from the various .json files
 const promotions = [];
 spaOnlineDaisyconJSON.datafeed.programs[0].products.forEach(promotion => promotions.push(promotion));
 vakantieVeilingenTradeTrackerJSON.products.forEach(promotion => promotions.push(promotion));
 actievandedagTradetrackerJSON.products.forEach(promotion => promotions.push(promotion));
 ticketveilingTradetrackerJSON.products.forEach(promotion => promotions.push(promotion));
 tripperTradetrackerJSON.products.forEach(promotion => promotions.push(promotion));
-
 zowegTradetrackerJSON.products.forEach(promotion => promotions.push(promotion));
 ADWebwinkelDaisyconJSON.datafeed.programs[0].products.forEach(promotion => promotions.push(promotion));
 hotelspecialsTradetrackerJSON.products.forEach(promotion => promotions.push(promotion))
 
 
-// //Create object with number of products for each campagne, which can be used in the filter
-// const numPromotionsForFilter = {
-//     'all': promotions.length,
-//     'SpaOnline.com': spaOnlineDaisyconJSON.datafeed.programs[0].products.length,
-//     'VakantieVeilingen': vakantieVeilingenTradeTrackerJSON.products.length,
-//     'ActievandeDag': actievandedagTradetrackerJSON.products.length,
-//     'TicketVeiling': ticketveilingTradetrackerJSON.products.length,
-//     'Tripper': tripperTradetrackerJSON.products.length,
-//     // 'ZoWeg': zowegTradetrackerJSON.products.length,
-//     // 'ADWebwinkel': ADWebwinkelDaisyconJSON.datafeed.programs[0].products.length,
-//     'HotelSpecials': hotelspecialsTradetrackerJSON.products.length,
-// }
+//Filter the promotions array to only keep ones with matching titles to the regex of the wellnessListIDs
+const filteredPromotions = promotions.filter(promotion => {
+    let title = promotion.name || promotion.product_info.title
+    title = title.replace(/[\s,-:]/g,"");
+    return Object.entries(wellnessListIDs).some(([, wellnessObject]) => {
+        return wellnessObject.regex.test(title)
+    })
+})
 
 
-//Data is not consistent for both TradeTracker and Daisycon. That's why make a mapped promotion array that returns a consistent object of the necessary data
-const mappedPromotions = promotions.map((promotion,index) => {
+//Data is not consistent for both TradeTracker and Daisycon. That's why make a mappedPromotion array that returns a consistent object of the necessary data
+const mappedPromotions = filteredPromotions.map((promotion,index) => {
     let titlePromotion = promotion.name ? promotion.name : promotion.product_info.title
     titlePromotion = titlePromotion.replace(/[\s,-:]/g,"");
     //let show = currentWellness["regex"].test(titlePromotion);
@@ -76,5 +71,17 @@ const mappedPromotions = promotions.map((promotion,index) => {
         location: promotion.properties.city,
     }
 })
+console.log(mappedPromotions);
 
-console.log(mappedPromotions.length)
+// //Create object with number of products for each campagne, which can be used in the filter
+// const numPromotionsForFilter = {
+//     'all': promotions.length,
+//     'SpaOnline.com': spaOnlineDaisyconJSON.datafeed.programs[0].products.length,
+//     'VakantieVeilingen': vakantieVeilingenTradeTrackerJSON.products.length,
+//     'ActievandeDag': actievandedagTradetrackerJSON.products.length,
+//     'TicketVeiling': ticketveilingTradetrackerJSON.products.length,
+//     'Tripper': tripperTradetrackerJSON.products.length,
+//     // 'ZoWeg': zowegTradetrackerJSON.products.length,
+//     // 'ADWebwinkel': ADWebwinkelDaisyconJSON.datafeed.programs[0].products.length,
+//     'HotelSpecials': hotelspecialsTradetrackerJSON.products.length,
+// }

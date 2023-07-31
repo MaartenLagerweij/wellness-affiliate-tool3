@@ -1,4 +1,4 @@
-const wellnessListIDs = {
+module.exports = {
   "Wellnesshoeve Butterfly" : { ID: 1, regex:  /^(?=.*wellnesshoeve)(?=.*butterfly).*$/ig, numPromotions: 0},
   "Het Nolderwoud" : { ID: 2, regex: /nolderwoud/gi , numPromotions: 0},
   "Thermen Lucaya" : { ID: 3, regex: /lucaya/gi , numPromotions: 0},
