@@ -1,6 +1,5 @@
 //This whole file is used to first receive the data and then create a mappedPromotions array of all promotions that each contains an object with only the necessary data
 const wellnessListIDs = require('../data/wellnessListIDs.js');
-const mockData = require('../data/mock-data.js');
 const spaOnlineDaisyconJSON = require('../data/daisycon-spaonline.json');
 const vakantieVeilingenTradeTrackerJSON = require('../data/vakantieveilingen-tradetracker.json');
 const actievandedagTradetrackerJSON = require('../data/actievandedagTradetracker.json');
@@ -22,8 +21,6 @@ tripperTradetrackerJSON.products.forEach(promotion => promotions.push(promotion)
 zowegTradetrackerJSON.products.forEach(promotion => promotions.push(promotion));
 ADWebwinkelDaisyconJSON.datafeed.programs[0].products.forEach(promotion => promotions.push(promotion));
 hotelspecialsTradetrackerJSON.products.forEach(promotion => promotions.push(promotion))
-console.log(promotions.length);
-//const promotions = mockData.products;
 
 
 // //Create object with number of products for each campagne, which can be used in the filter
@@ -80,3 +77,4 @@ const mappedPromotions = promotions.map((promotion,index) => {
     }
 })
 
+console.log(mappedPromotions.length)
