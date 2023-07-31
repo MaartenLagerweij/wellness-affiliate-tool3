@@ -1,0 +1,1280 @@
+{
+  "products": [
+    {
+      "ID": "cbe2a40f9ed53b4bec5761ea21184c84b48cfda7",
+      "campaignID": 8308,
+      "name": "60 minuten massage bij Royalty Beauty Lounge in Rotterdam!",
+      "price": { "currency": "EUR", "amount": 0 },
+      "URL": "https://www.ticketveiling.nl/tickets/?tt=8308_1922718_228134_&r=https%3A%2F%2Fwww.ticketveiling.nl%2Fsauna%2Fwellness-arrangementen%2Fmassage-royalty-beauty-lounge-rotterdam-korting",
+      "images": [
+        "https://ticketveiling.imgix.net/aanbieders/Royalty-Beauty-Lounge/MAssage-1-.jpg?q=70&w=560&h=300&fit=crop&auto=compress,format,enhance"
+      ],
+      "description": "<p>Kan jij wel wat ontspanning gebruiken? Kom dan lang bij Royalty Beauty Lounge voor een heerlijke ontspanningsmassage van 60 minuten. Bij deze massage worden je spieren op een rustige manier losgemaakt!</p>",
+      "categories": [],
+      "properties": {
+        "guid_isPermaLink": ["false"],
+        "guid": ["64abdccd6869e0fbfb0aa160"],
+        "category": ["/sauna/wellness-arrangementen"],
+        "pubDate": ["Mon, 10 Jul 2023 12:26:21 GMT"],
+        "updated": ["2023-07-25T01:00:01+02:00"],
+        "enclosure_type": ["image/jpeg"],
+        "enclosure": [""]
+      },
+      "variations": []
+    },
+    {
+      "ID": "ce9fd4592ef75a62e6b2071ce1c74be06120a7db",
+      "campaignID": 8308,
+      "name": "1 ticket voor een ontspannen dag bij Thermen Binnenmaas!",
+      "price": { "currency": "EUR", "amount": 0 },
+      "URL": "https://www.ticketveiling.nl/tickets/?tt=8308_1922718_228134_&r=https%3A%2F%2Fwww.ticketveiling.nl%2Fsauna%2Fsauna%2Fsauna-thermen-binnenmaas-korting",
+      "images": [
+        "https://ticketveiling.imgix.net/aanbieders/thermen binnenmaas/TB-1.jpg?q=70&w=560&h=300&fit=crop&auto=compress,format,enhance"
+      ],
+      "description": "<p>Kom helemaal tot rust bij het prachtige sauna en wellnesscomplex Thermen Binnenmaas in 's-Gravendeel, nabij Rotterdam. Geniet van een dagje complete rust en ontspanning!</p>",
+      "categories": [],
+      "properties": {
+        "guid_isPermaLink": ["false"],
+        "guid": ["61fa4190b917dcf59ca5acf4"],
+        "category": ["/sauna/sauna"],
+        "pubDate": ["Wed, 02 Feb 2022 09:32:16 GMT"],
+        "updated": ["2023-07-24T20:35:33+02:00"],
+        "enclosure_type": ["image/jpeg"],
+        "enclosure": [""]
+      },
+      "variations": []
+    },
+    {
+      "ID": "c800a071fa8b5ecbc632a80e28ac427b72e320eb",
+      "campaignID": 8308,
+      "name": "1 ticket voor Thermen & Wellness Anholts in Schoonebeek!",
+      "price": { "currency": "EUR", "amount": 0 },
+      "URL": "https://www.ticketveiling.nl/tickets/?tt=8308_1922718_228134_&r=https%3A%2F%2Fwww.ticketveiling.nl%2Fsauna%2Fsauna%2Fthermen-wellness-anholts-schoonebeek-korting-2",
+      "images": [
+        "https://ticketveiling.imgix.net/aanbieders/Thermen-Anholts/Anholts-2-logo.jpg?q=70&w=560&h=300&fit=crop&auto=compress,format,enhance"
+      ],
+      "description": "<p>Thermen & Wellness Anholts is gevestigd in het prachtige Beekdal-landschap. Geniet van  sauna's en stoombaden, ervaar ultieme ontspanning en verwen jezelf op een compleet dagje uit in een rustgevende omgeving. </p>",
+      "categories": [],
+      "properties": {
+        "guid_isPermaLink": ["false"],
+        "guid": ["6284be06fe3118b54df865ee"],
+        "category": ["/sauna/sauna"],
+        "pubDate": ["Wed, 18 May 2022 11:36:06 GMT"],
+        "updated": ["2023-07-24T11:00:23+02:00"],
+        "enclosure_type": ["image/jpeg"],
+        "enclosure": [""]
+      },
+      "variations": []
+    },
+    {
+      "ID": "e6cd7f04475ddebb0be338049ddcfea6450b9c63",
+      "campaignID": 8308,
+      "name": "1 cryolipolyse-behandeling van max. 5 zones naar keuze!",
+      "price": { "currency": "EUR", "amount": 0 },
+      "URL": "https://www.ticketveiling.nl/tickets/?tt=8308_1922718_228134_&r=https%3A%2F%2Fwww.ticketveiling.nl%2Fsauna%2Fbeautybehandelingen%2Fcryolipolyse-behandeling-5-zones",
+      "images": [
+        "https://ticketveiling.imgix.net/aanbieders/perfect you/cryolipolise/9.png?q=70&w=560&h=300&fit=crop&auto=compress,format,enhance"
+      ],
+      "description": "<p>Op een natuurlijke manier ongewenst lichaamsvet verliezen met de cryolipolyse-behandeling van Perfect You! Keuze uit locatie Arnhem, Den Bosch, Eindhoven en Rijswijk.</p>",
+      "categories": [],
+      "properties": {
+        "guid_isPermaLink": ["false"],
+        "guid": ["5fc9fa892ed8c812d4bd3d51"],
+        "category": ["/sauna/beautybehandelingen"],
+        "pubDate": ["Fri, 04 Dec 2020 09:59:53 GMT"],
+        "updated": ["2023-07-24T11:00:23+02:00"],
+        "enclosure_type": ["image/jpeg"],
+        "enclosure": [""]
+      },
+      "variations": []
+    },
+    {
+      "ID": "183a2d7f728c77901e74488d3636268e81432001",
+      "campaignID": 8308,
+      "name": "Een dagje ontspannen bij Sauna Het Friese Woud voor 2 personen!",
+      "price": { "currency": "EUR", "amount": 0 },
+      "URL": "https://www.ticketveiling.nl/tickets/?tt=8308_1922718_228134_&r=https%3A%2F%2Fwww.ticketveiling.nl%2Fsauna%2Fsauna%2Fsauna-het-friese-woud-2-personen-korting",
+      "images": [
+        "https://ticketveiling.imgix.net/aanbieders/Het Friese Woud/Het-Friese-Woud-1-logo.jpg?q=70&w=560&h=300&fit=crop&auto=compress,format,enhance"
+      ],
+      "description": "<p>Een ontspannen dag bij Sauna Het Friese Woud waar je volledig tot rust komt! Voldoende faciliteiten om vele uren te genieten in een ambiance van rust.</p>",
+      "categories": [],
+      "properties": {
+        "guid_isPermaLink": ["false"],
+        "guid": ["6266a319235f00ea156ee04d"],
+        "category": ["/sauna/sauna"],
+        "pubDate": ["Mon, 25 Apr 2022 15:33:13 GMT"],
+        "updated": ["2023-07-24T11:00:22+02:00"],
+        "enclosure_type": ["image/jpeg"],
+        "enclosure": [""]
+      },
+      "variations": []
+    },
+    {
+      "ID": "7f452fa47247b10c82616b5efec1deaa3850649e",
+      "campaignID": 8308,
+      "name": "Een dagje ontspannen bij Sauna Dennenmarken in Limburg!",
+      "price": { "currency": "EUR", "amount": 0 },
+      "URL": "https://www.ticketveiling.nl/tickets/?tt=8308_1922718_228134_&r=https%3A%2F%2Fwww.ticketveiling.nl%2Fsauna%2Fsauna%2Fsauna-dennenmarken-limburg-korting",
+      "images": [
+        "https://ticketveiling.imgix.net/aanbieders/Dennenmarken-Sauna/Sauna-Dennenmarken-11689258364.jpg?q=70&w=560&h=300&fit=crop&auto=compress,format,enhance"
+      ],
+      "description": "<p>Toe aan een dagje ontspannen? Dan ben je bij Sauna Dennenmarken aan het juiste adres. Kom volledig tot rust en geniet van alle comfort en sauna's bij Sauna Dennenmarken in Limburg! </p>",
+      "categories": [],
+      "properties": {
+        "guid_isPermaLink": ["false"],
+        "guid": ["62c29e945c0a783b26b19142"],
+        "category": ["/sauna/sauna"],
+        "pubDate": ["Mon, 04 Jul 2022 10:02:28 GMT"],
+        "updated": ["2023-07-24T11:00:23+02:00"],
+        "enclosure_type": ["image/jpeg"],
+        "enclosure": [""]
+      },
+      "variations": []
+    },
+    {
+      "ID": "3fe71359add5a13c4819045d1aca0f79b1082dcc",
+      "campaignID": 8308,
+      "name": "5 cryolipolyse-behandeling van max. 5 zones naar keuze",
+      "price": { "currency": "EUR", "amount": 0 },
+      "URL": "https://www.ticketveiling.nl/tickets/?tt=8308_1922718_228134_&r=https%3A%2F%2Fwww.ticketveiling.nl%2Fsauna%2Fbeautybehandelingen%2F5-cryolipolyse-behandelingen-5-zones",
+      "images": [
+        "https://ticketveiling.imgix.net/aanbieders/perfect you/cryolipolise/8.png?q=70&w=560&h=300&fit=crop&auto=compress,format,enhance"
+      ],
+      "description": "<p>Op een natuurlijke manier ongewenst lichaamsvet verliezen met de cryolipolyse-behandeling van Perfect You! Keuze uit locatie Arnhem, Den Bosch, Eindhoven en Rijswijk.</p>",
+      "categories": [],
+      "properties": {
+        "guid_isPermaLink": ["false"],
+        "guid": ["5fca07022ed8c812d4bd3db0"],
+        "category": ["/sauna/beautybehandelingen"],
+        "pubDate": ["Fri, 04 Dec 2020 10:53:06 GMT"],
+        "updated": ["2023-07-24T11:00:23+02:00"],
+        "enclosure_type": ["image/jpeg"],
+        "enclosure": [""]
+      },
+      "variations": []
+    },
+    {
+      "ID": "01c5e83a8e19e4b2981f86f1a3fffe2351d4cd21",
+      "campaignID": 8308,
+      "name": "2-daags BLUE Wellness Arrangement voor 2 personen!",
+      "price": { "currency": "EUR", "amount": 0 },
+      "URL": "https://www.ticketveiling.nl/tickets/?tt=8308_1922718_228134_&r=https%3A%2F%2Fwww.ticketveiling.nl%2Fhotels%2Fweekendjes-weg%2Fblue-wellness-arrangement-korting",
+      "images": [
+        "https://ticketveiling.imgix.net/Logo-maart-2023/fletcher.jpg?q=70&w=560&h=300&fit=crop&auto=compress,format,enhance"
+      ],
+      "description": "<p>Ben jij ook zo toe aan ontspanning? Dit arrangement zorgt ervoor dat je jezelf weer helemaal kunt opladen. Naast een overnachting in een standaard kamer is ook entree tot het BLUE Wellnessresort inbegrepen.</p>",
+      "categories": [],
+      "properties": {
+        "guid_isPermaLink": ["false"],
+        "guid": ["6426ece6ef3bdc880f420c55"],
+        "category": ["/hotels/weekendjes-weg"],
+        "pubDate": ["Fri, 31 Mar 2023 16:23:34 GMT"],
+        "updated": ["2023-07-24T19:47:27+02:00"],
+        "enclosure_type": ["image/jpeg"],
+        "enclosure": [""]
+      },
+      "variations": []
+    },
+    {
+      "ID": "cbc5422603802e106793ef2dc67b06e33da7a749",
+      "campaignID": 8308,
+      "name": "Entree voor 2 personen bij sauna Aquarein in Grobbendonk (België)!",
+      "price": { "currency": "EUR", "amount": 0 },
+      "URL": "https://www.ticketveiling.nl/tickets/?tt=8308_1922718_228134_&r=https%3A%2F%2Fwww.ticketveiling.nl%2Fsauna%2Fsauna%2Fsauna-aquarein-grobbendonk-in-belgie-korting",
+      "images": [
+        "https://ticketveiling.imgix.net/aanbieders/Sauna-Aquarein/2023/Aquarein-23.jpg?q=70&w=560&h=300&fit=crop&auto=compress,format,enhance"
+      ],
+      "description": "<p>Sauna Aquarein in België staat garant voor een hele dag comfort en luxe. Waan je in een omgeving van rust en geniet van de vele faciliteiten die Sauna Aquarein je te bieden heeft.</p>",
+      "categories": [],
+      "properties": {
+        "guid_isPermaLink": ["false"],
+        "guid": ["6481c8a4d84be86bc875adb9"],
+        "category": ["/sauna/sauna"],
+        "pubDate": ["Thu, 08 Jun 2023 14:25:08 GMT"],
+        "updated": ["2023-07-24T11:00:24+02:00"],
+        "enclosure_type": ["image/jpeg"],
+        "enclosure": [""]
+      },
+      "variations": []
+    },
+    {
+      "ID": "d454f4d6ff0d7c7f881c3742af00e0e7dd222af7",
+      "campaignID": 8308,
+      "name": "Dagentree + maaltijdsalade bij Sauna Dennemarken in Limburg!",
+      "price": { "currency": "EUR", "amount": 0 },
+      "URL": "https://www.ticketveiling.nl/tickets/?tt=8308_1922718_228134_&r=https%3A%2F%2Fwww.ticketveiling.nl%2Fsauna%2Fsauna%2Fdagentree-maaltijdsalade-sauna-dennemarken-limburg-korting",
+      "images": [
+        "https://ticketveiling.imgix.net/aanbieders/Dennenmarken-Sauna/Dennenmarken-2.jpg?q=70&w=560&h=300&fit=crop&auto=compress,format,enhance"
+      ],
+      "description": "<p>Een hele dag genieten bij Sauna Dennenmarken in Limburg. Er zijn voldoende faciliteiten om vele uren te genieten en tussendoor staat er een overheerlijke maaltijdsalade voor je klaar. </p>",
+      "categories": [],
+      "properties": {
+        "guid_isPermaLink": ["false"],
+        "guid": ["6315fe96a96fa23acce7be8a"],
+        "category": ["/sauna/sauna"],
+        "pubDate": ["Mon, 05 Sep 2022 15:50:14 GMT"],
+        "updated": ["2023-07-24T11:00:24+02:00"],
+        "enclosure_type": ["image/jpeg"],
+        "enclosure": [""]
+      },
+      "variations": []
+    },
+    {
+      "ID": "15864e9ba472f837fd7af721b3a244b972e0ea9a",
+      "campaignID": 8308,
+      "name": "Voor 2 personen een Hamam-arrangement bij Dluxe Spa & Beauty in Den Haag!",
+      "price": { "currency": "EUR", "amount": 0 },
+      "URL": "https://www.ticketveiling.nl/tickets/?tt=8308_1922718_228134_&r=https%3A%2F%2Fwww.ticketveiling.nl%2Fsauna%2Fbeautybehandelingen%2Fhammam-arrangement-dluxe-spa-beauty-korting",
+      "images": [
+        "https://ticketveiling.imgix.net/aanbieders/Dluxe-Spa-en-Beauty/Dluxe-Spa-2.jpg?q=70&w=560&h=300&fit=crop&auto=compress,format,enhance"
+      ],
+      "description": "<p>Dluxe Spa & Beauty is een modern en uniek Spa en Beauty salon voor alleen dames in het centrum van Den Haag. Een bezoek aan Dluxe Spa & Beauty is een pure verwennerij, een plek waar je heerlijk tot rust kunt komen! </p>",
+      "categories": [],
+      "properties": {
+        "guid_isPermaLink": ["false"],
+        "guid": ["643d1741ff0881a0572fb404"],
+        "category": ["/sauna/beautybehandelingen"],
+        "pubDate": ["Mon, 17 Apr 2023 11:54:09 GMT"],
+        "updated": ["2023-07-24T11:00:24+02:00"],
+        "enclosure_type": ["image/jpeg"],
+        "enclosure": [""]
+      },
+      "variations": []
+    },
+    {
+      "ID": "901a9e3880406c386dc355c1a7345bc28a83e3f5",
+      "campaignID": 8308,
+      "name": "Voor 2 personen dagentree voor Spa & Wellness Hammam in Rotterdam!",
+      "price": { "currency": "EUR", "amount": 0 },
+      "URL": "https://www.ticketveiling.nl/tickets/?tt=8308_1922718_228134_&r=https%3A%2F%2Fwww.ticketveiling.nl%2Fsauna%2Fsauna%2Fspa-wellness-hammam-rotterdam-korting",
+      "images": [
+        "https://ticketveiling.imgix.net/aanbieders/Spa-en-Wellness-Hammam/Hamman.jpg?q=70&w=560&h=300&fit=crop&auto=compress,format,enhance"
+      ],
+      "description": "<p>Toe aan een dagje rust? Bij Spa & Wellness Hamma kom je helemaal tot rust. Bezoek het stoombad, ontspan in de infraroodsauna en geniet van de hammam! </p>",
+      "categories": [],
+      "properties": {
+        "guid_isPermaLink": ["false"],
+        "guid": ["63d90f783f4ea7f260e4c595"],
+        "category": ["/sauna/sauna"],
+        "pubDate": ["Tue, 31 Jan 2023 13:54:16 GMT"],
+        "updated": ["2023-07-24T11:00:22+02:00"],
+        "enclosure_type": ["image/jpeg"],
+        "enclosure": [""]
+      },
+      "variations": []
+    },
+    {
+      "ID": "77080375c0fda82a5795232e1a4e0d8432b520b3",
+      "campaignID": 8308,
+      "name": "Voor 2 personen een Cosy Spa arrangement bij Zí Retreat in Eindhoven!",
+      "price": { "currency": "EUR", "amount": 0 },
+      "URL": "https://www.ticketveiling.nl/tickets/?tt=8308_1922718_228134_&r=https%3A%2F%2Fwww.ticketveiling.nl%2Fsauna%2Fsauna%2Fcosy-spa-zi-retreat-eindhoven-korting",
+      "images": [
+        "https://ticketveiling.imgix.net/aanbieders/Zi-Retreat/Zi-Retreat-11689325545.jpg?q=70&w=560&h=300&fit=crop&auto=compress,format,enhance"
+      ],
+      "description": "<p>Bij Spa Zí Retreat waan je jezelf in een magische wereld van pure luxe waar je al je zintuigen laat prikkelen en helemaal tot rust kan komen! Trek jezelf terug uit het dagelijkse leven en leg de focus even helemaal bij jezelf. </p>",
+      "categories": [],
+      "properties": {
+        "guid_isPermaLink": ["false"],
+        "guid": ["63c6965fa86e97088d1b2882"],
+        "category": ["/sauna/sauna"],
+        "pubDate": ["Tue, 17 Jan 2023 13:36:47 GMT"],
+        "updated": ["2023-07-24T20:57:38+02:00"],
+        "enclosure_type": ["image/jpeg"],
+        "enclosure": [""]
+      },
+      "variations": []
+    },
+    {
+      "ID": "82012bfdaf089190837fdb51dd70f82ab37ec782",
+      "campaignID": 8308,
+      "name": "Een luxe anti-aging behandeling bij Royalty Beauty Lounge in Rotterdam!",
+      "price": { "currency": "EUR", "amount": 0 },
+      "URL": "https://www.ticketveiling.nl/tickets/?tt=8308_1922718_228134_&r=https%3A%2F%2Fwww.ticketveiling.nl%2Fsauna%2Fwellness-arrangementen%2Fgezichtsbehandeling-royalty-beauty-lounge-korting-2",
+      "images": [
+        "https://ticketveiling.imgix.net/aanbieders/Royalty-Beauty-Lounge/Royalty-Beauty-Lounge-11688997622.jpg?q=70&w=560&h=300&fit=crop&auto=compress,format,enhance"
+      ],
+      "description": "<p>De zonnige zomerdagen staan weer voor de deur! Tijd om je huid een boost te geven met deze luxe gezichtsbehandeling bij Royalty Beauty Lounge in Rotterdam!</p>",
+      "categories": [],
+      "properties": {
+        "guid_isPermaLink": ["false"],
+        "guid": ["64ac0b156869e0fbfb0aa287"],
+        "category": ["/sauna/wellness-arrangementen"],
+        "pubDate": ["Mon, 10 Jul 2023 15:43:49 GMT"],
+        "updated": ["2023-07-25T01:00:01+02:00"],
+        "enclosure_type": ["image/jpeg"],
+        "enclosure": [""]
+      },
+      "variations": []
+    },
+    {
+      "ID": "5a16d7b5bbd153fc7a471a559ee5684054934b3b",
+      "campaignID": 8308,
+      "name": "2 tickets voor wellness bij Fitnessclub Sportiom in Den Bosch!",
+      "price": { "currency": "EUR", "amount": 0 },
+      "URL": "https://www.ticketveiling.nl/tickets/?tt=8308_1922718_228134_&r=https%3A%2F%2Fwww.ticketveiling.nl%2Fsauna%2Fwellness-arrangementen%2Fwellness-fitnessclub-sportiom-korting",
+      "images": [
+        "https://ticketveiling.imgix.net/Logo_Juni_2023/sportiom-1.jpg?q=70&w=560&h=300&fit=crop&auto=compress,format,enhance"
+      ],
+      "description": "<p>Kom lekker tot rust in de wellnessruimte van Fitnessclub Sportiom. Je kunt binnen én buiten lekker ontspannen. Geniet van een heerlijke sauna, voetenbad of neem plaats in de whirlpool!</p>",
+      "categories": [],
+      "properties": {
+        "guid_isPermaLink": ["false"],
+        "guid": ["636bb4e12b4881f8b985b3b9"],
+        "category": ["/sauna/wellness-arrangementen"],
+        "pubDate": ["Wed, 09 Nov 2022 15:10:41 GMT"],
+        "updated": ["2023-07-24T11:43:27+02:00"],
+        "enclosure_type": ["image/jpeg"],
+        "enclosure": [""]
+      },
+      "variations": []
+    },
+    {
+      "ID": "327cbbafaff49d21050cc94e129f13a02a0b43c4",
+      "campaignID": 8308,
+      "name": "Voor 2 personen een Wellness Hotelarrangement bij Sauna Dennenmarken!",
+      "price": { "currency": "EUR", "amount": 0 },
+      "URL": "https://www.ticketveiling.nl/tickets/?tt=8308_1922718_228134_&r=https%3A%2F%2Fwww.ticketveiling.nl%2Fhotels%2Fweekendjes-weg%2Fwellness-hotelarrangement-sauna-dennenmarken-korting",
+      "images": [
+        "https://ticketveiling.imgix.net/aanbieders/Dennenmarken-Sauna/Overnachting-Dennenmarken-1.jpg?q=70&w=560&h=300&fit=crop&auto=compress,format,enhance"
+      ],
+      "description": "<p>Maak een dagje wellness bij Sauna Dennenmarken compleet met een overnachting bij Hotel & Grand Café De Pauw in Roermond! Kom volledig tot rust en geniet van alle comfort en sauna's die Sauna Dennenmarken te bieden heeft. </p>",
+      "categories": [],
+      "properties": {
+        "guid_isPermaLink": ["false"],
+        "guid": ["636b76f42b4881f8b985b212"],
+        "category": ["/hotels/weekendjes-weg"],
+        "pubDate": ["Wed, 09 Nov 2022 10:46:28 GMT"],
+        "updated": ["2023-07-24T11:00:23+02:00"],
+        "enclosure_type": ["image/jpeg"],
+        "enclosure": [""]
+      },
+      "variations": []
+    },
+    {
+      "ID": "fcb554c98530f85b3a1d2009d127a3a3f6e6a4a5",
+      "campaignID": 8308,
+      "name": "Voor 2 personen een dagje ontspannen bij Wine & Wellness in Utrecht!",
+      "price": { "currency": "EUR", "amount": 0 },
+      "URL": "https://www.ticketveiling.nl/tickets/?tt=8308_1922718_228134_&r=https%3A%2F%2Fwww.ticketveiling.nl%2Fsauna%2F2-personen-een-dagje-ontspannen-bij-wine-wellness-in-utrecht-korting",
+      "images": [
+        "https://ticketveiling.imgix.net/aanbieders/Wine-en-Wellness/Wine-en-wellness-logo-1.jpg?q=70&w=560&h=300&fit=crop&auto=compress,format,enhance"
+      ],
+      "description": "<p>Wine & Wellness is met ruim 500 vierkante meter het grootste wellnesscentra in de Utrechtse binnenstad. Hier kun je ontkomen aan de drukte van de stad en beleef je een unieke wellness ervaring in hartje Utrecht! </p>",
+      "categories": [],
+      "properties": {
+        "guid_isPermaLink": ["false"],
+        "guid": ["646db4ccca6cb6bc958b26f1"],
+        "category": ["/sauna"],
+        "pubDate": ["Wed, 24 May 2023 08:55:08 GMT"],
+        "updated": ["2023-07-24T11:00:23+02:00"],
+        "enclosure_type": ["image/jpeg"],
+        "enclosure": [""]
+      },
+      "variations": []
+    },
+    {
+      "ID": "078e7812cd3889bba4eac6ee237445458c362bca",
+      "campaignID": 8308,
+      "name": "30 minuten massage bij Royalty Beauty Lounge in Rotterdam!",
+      "price": { "currency": "EUR", "amount": 0 },
+      "URL": "https://www.ticketveiling.nl/tickets/?tt=8308_1922718_228134_&r=https%3A%2F%2Fwww.ticketveiling.nl%2Fsauna%2Fwellness-arrangementen%2F30-minuten-massage-royalty-beauty-lounge-rotterdam",
+      "images": [
+        "https://ticketveiling.imgix.net/aanbieders/Royalty-Beauty-Lounge/Royalty-Beauty-Lounge-1.jpg?q=70&w=560&h=300&fit=crop&auto=compress,format,enhance"
+      ],
+      "description": "<p>Kan jij wel wat ontspanning gebruiken? Kom dan lang bij Royalty Beauty Lounge voor een heerlijke ontspanningsmassage van 30 minuten. Bij deze massage worden je spieren op een rustige manier losgemaakt!</p>",
+      "categories": [],
+      "properties": {
+        "guid_isPermaLink": ["false"],
+        "guid": ["64abd4fa6869e0fbfb0aa0f7"],
+        "category": ["/sauna/wellness-arrangementen"],
+        "pubDate": ["Mon, 10 Jul 2023 11:52:58 GMT"],
+        "updated": ["2023-07-25T01:00:01+02:00"],
+        "enclosure_type": ["image/jpeg"],
+        "enclosure": [""]
+      },
+      "variations": []
+    },
+    {
+      "ID": "82407b40e89c422610af4d306450c6917ab0e11a",
+      "campaignID": 8308,
+      "name": "Verzorg je huid met 1 Laser Facelift gelaatsbehandeling bij Perfect You!",
+      "price": { "currency": "EUR", "amount": 0 },
+      "URL": "https://www.ticketveiling.nl/tickets/?tt=8308_1922718_228134_&r=https%3A%2F%2Fwww.ticketveiling.nl%2Fsauna%2Fbeautybehandelingen%2Flaser-facelift-perfect-you-korting",
+      "images": [
+        "https://ticketveiling.imgix.net/Logo/perfect-1-Website.jpg?q=70&w=560&h=300&fit=crop&auto=compress,format,enhance"
+      ],
+      "description": "<p>Herstel de huid met een laser facelift behandeling bij Perfect You Skin Clinic in Arnhem, Den Bosch, Rijswijk, Zwolle of Eindhoven. Na één behandeling is het resultaat 100 % zichtbaar! </p>",
+      "categories": [],
+      "properties": {
+        "guid_isPermaLink": ["false"],
+        "guid": ["5fc8ee3426309f63d01300c9"],
+        "category": ["/sauna/beautybehandelingen"],
+        "pubDate": ["Thu, 03 Dec 2020 14:55:00 GMT"],
+        "updated": ["2023-07-24T11:00:22+02:00"],
+        "enclosure_type": ["image/jpeg"],
+        "enclosure": [""]
+      },
+      "variations": []
+    },
+    {
+      "ID": "1edf828467418b88fc4cf9ff0ebc998124733a78",
+      "campaignID": 8308,
+      "name": "1 float arrangement bij Babyspa Utrecht!",
+      "price": { "currency": "EUR", "amount": 0 },
+      "URL": "https://www.ticketveiling.nl/tickets/?tt=8308_1922718_228134_&r=https%3A%2F%2Fwww.ticketveiling.nl%2Fsauna%2Fbeautybehandelingen%2Ffloat-arrangement-bij-babyspa-utrecht",
+      "images": [
+        "https://ticketveiling.imgix.net/aanbieders/BabySpa-utrecht/BabySpa1.jpg?q=70&w=560&h=300&fit=crop&auto=compress,format,enhance"
+      ],
+      "description": "<p>Bij BabySpa in Utrecht kun je terecht voor een heerlijke floatsessie voor je kindje tot 18 maanden. Door het ontspannende effect kan jouw baby bewust worden van zijn/haar lichaam en de wereld om zich heen.</p>",
+      "categories": [],
+      "properties": {
+        "guid_isPermaLink": ["false"],
+        "guid": ["645a0141091c3a9618519da8"],
+        "category": ["/sauna/beautybehandelingen"],
+        "pubDate": ["Tue, 09 May 2023 10:16:01 GMT"],
+        "updated": ["2023-07-24T22:42:37+02:00"],
+        "enclosure_type": ["image/jpeg"],
+        "enclosure": [""]
+      },
+      "variations": []
+    },
+    {
+      "ID": "590ab517054b76702418619cb877adc2b1bd3367",
+      "campaignID": 8308,
+      "name": "20 minuten onder de zonnebank bij Sunsen Zonnestudio in Rotterdam!",
+      "price": { "currency": "EUR", "amount": 0 },
+      "URL": "https://www.ticketveiling.nl/tickets/?tt=8308_1922718_228134_&r=https%3A%2F%2Fwww.ticketveiling.nl%2Fsauna%2Fbeautybehandelingen%2Fzonnebank-sunsen-zonnestudio-rotterdam-korting",
+      "images": [
+        "https://ticketveiling.imgix.net/aanbieders/Zonnestudio-Sunsen/sunsen_g.png?q=70&w=560&h=300&fit=crop&auto=compress,format,enhance"
+      ],
+      "description": "<p>De zonnebanken van Zonnestudio Sunsen zijn gecertificeerd en zijn één van de beste ter wereld! De zonnebanken zorgen voor natuurlijke zonnestralen en een egale kleur. </p>",
+      "categories": [],
+      "properties": {
+        "guid_isPermaLink": ["false"],
+        "guid": ["63db7a452b4090d9180a1793"],
+        "category": ["/sauna/beautybehandelingen"],
+        "pubDate": ["Thu, 02 Feb 2023 09:54:29 GMT"],
+        "updated": ["2023-07-24T11:00:24+02:00"],
+        "enclosure_type": ["image/jpeg"],
+        "enclosure": [""]
+      },
+      "variations": []
+    },
+    {
+      "ID": "910bc606a02e0875a812c79bb68d060297f47aa8",
+      "campaignID": 8308,
+      "name": "2 tickets voor Thermen Soesterberg!",
+      "price": { "currency": "EUR", "amount": 0 },
+      "URL": "https://www.ticketveiling.nl/tickets/?tt=8308_1922718_228134_&r=https%3A%2F%2Fwww.ticketveiling.nl%2Fsauna%2Fsauna%2Fticket-thermen-soesterberg-korting",
+      "images": [
+        "https://ticketveiling.imgix.net/Logo_Juni_2023/soesterberg3.jpg?q=70&w=560&h=300&fit=crop&auto=compress,format,enhance"
+      ],
+      "description": "<p>Thermen Soesterberg is een wellnessresort gelegen in Soesterberg. Het resort biedt een breed scala aan ontspannings- en wellnessfaciliteiten, waaronder verschillende sauna's, baden, rustruimtes en behandelingen.</p>",
+      "categories": [],
+      "properties": {
+        "guid_isPermaLink": ["false"],
+        "guid": ["6319ffe8ce0f10b7793e8408"],
+        "category": ["/sauna/sauna"],
+        "pubDate": ["Thu, 08 Sep 2022 16:44:56 GMT"],
+        "updated": ["2023-07-24T22:22:57+02:00"],
+        "enclosure_type": ["image/jpeg"],
+        "enclosure": [""]
+      },
+      "variations": []
+    },
+    {
+      "ID": "5390ea8a925f60ba78b856587e1f6accf2dac8b4",
+      "campaignID": 8308,
+      "name": "2x Dagentree + beautybehandeling + glaasje bubbels bij Sauna Dennenmarken!",
+      "price": { "currency": "EUR", "amount": 0 },
+      "URL": "https://www.ticketveiling.nl/tickets/?tt=8308_1922718_228134_&r=https%3A%2F%2Fwww.ticketveiling.nl%2Fsauna%2Fwellness-arrangementen%2Fsauna-dennenmarken-beautybehandeling-bubbels",
+      "images": [
+        "https://ticketveiling.imgix.net/aanbieders/Dennenmarken-Sauna/Beautybehandeling-1.jpg?q=70&w=560&h=300&fit=crop&auto=compress,format,enhance"
+      ],
+      "description": "<p>Komt tot rust in het volledig vernieuwde saunacomplex van Sauna Dennenmarken in Limburg! Geniet van de verschillende sauna's en van een beautybehandeling in de beautysalon. </p>",
+      "categories": [],
+      "properties": {
+        "guid_isPermaLink": ["false"],
+        "guid": ["6316fd9aa96fa23acce7bfa4"],
+        "category": ["/sauna/wellness-arrangementen"],
+        "pubDate": ["Tue, 06 Sep 2022 09:58:18 GMT"],
+        "updated": ["2023-07-24T22:52:19+02:00"],
+        "enclosure_type": ["image/jpeg"],
+        "enclosure": [""]
+      },
+      "variations": []
+    },
+    {
+      "ID": "1d524bd2963efc1f66ce88425b1a486db7da8a3f",
+      "campaignID": 8308,
+      "name": "Een Hamam-arrangement incl. High Tea bij Dluxe Spa & Beauty in Den Haag!",
+      "price": { "currency": "EUR", "amount": 0 },
+      "URL": "https://www.ticketveiling.nl/tickets/?tt=8308_1922718_228134_&r=https%3A%2F%2Fwww.ticketveiling.nl%2Fsauna%2Fbeautybehandelingen%2Fhammam-arrangement-hight-tea-dluxe-spa-beauty-korting",
+      "images": [
+        "https://ticketveiling.imgix.net/Logo-Mei-2023/deluxe2.jpg?q=70&w=560&h=300&fit=crop&auto=compress,format,enhance"
+      ],
+      "description": "<p>Dluxe Spa & Beauty is een modern en uniek Spa en Beauty salon voor alleen dames in het centrum van Den Haag. Een bezoek aan Dluxe Spa & Beauty is een pure verwennerij, een plek waar je heerlijk tot rust kunt komen! </p>",
+      "categories": [],
+      "properties": {
+        "guid_isPermaLink": ["false"],
+        "guid": ["643d2dc9ff0881a0572fb436"],
+        "category": ["/sauna/beautybehandelingen"],
+        "pubDate": ["Mon, 17 Apr 2023 13:30:17 GMT"],
+        "updated": ["2023-07-24T11:00:24+02:00"],
+        "enclosure_type": ["image/jpeg"],
+        "enclosure": [""]
+      },
+      "variations": []
+    },
+    {
+      "ID": "bf40b3749a69e4d93dec5b2152e2bae80e697204",
+      "campaignID": 8308,
+      "name": "2 avond entreetickets voor Sauna Drôme in Putten!",
+      "price": { "currency": "EUR", "amount": 0 },
+      "URL": "https://www.ticketveiling.nl/tickets/?tt=8308_1922718_228134_&r=https%3A%2F%2Fwww.ticketveiling.nl%2Fsauna%2Fsauna%2Fsaunadrome-putten-avondentree",
+      "images": [
+        "https://ticketveiling.imgix.net/aanbieders/Saunadrome Putten/Sauna-Drome-1-logo.jpg?q=70&w=560&h=300&fit=crop&auto=compress,format,enhance"
+      ],
+      "description": "<p>Kom heerlijk genieten bij Sauna Drôme in Putten, een stukje Finland op de Veluwe! Middenin de prachtige natuur van de Veluwe beleef je een fijne verwendag.</p>",
+      "categories": [],
+      "properties": {
+        "guid_isPermaLink": ["false"],
+        "guid": ["6388b29a602bf43de22528d9"],
+        "category": ["/sauna/sauna"],
+        "pubDate": ["Thu, 01 Dec 2022 14:56:42 GMT"],
+        "updated": ["2023-07-24T20:22:46+02:00"],
+        "enclosure_type": ["image/jpeg"],
+        "enclosure": [""]
+      },
+      "variations": []
+    },
+    {
+      "ID": "12c1d30cc0d5fd559f5f51b1d04be594a321c1a9",
+      "campaignID": 8308,
+      "name": "Kom samen tot rust bij Thermen Binnenmaas - bron van ontspanning!",
+      "price": { "currency": "EUR", "amount": 0 },
+      "URL": "https://www.ticketveiling.nl/tickets/?tt=8308_1922718_228134_&r=https%3A%2F%2Fwww.ticketveiling.nl%2Fsauna%2Fsauna%2Fthermen-binnenmaas-korting",
+      "images": [
+        "https://ticketveiling.imgix.net/aanbieders/thermen binnenmaas/TH-3.jpg?q=70&w=560&h=300&fit=crop&auto=compress,format,enhance"
+      ],
+      "description": "<p>Kom helemaal tot rust bij het prachtige sauna en wellnesscomplex Thermen Binnenmaas in 's-Gravendeel, nabij Rotterdam. Geniet van een dagje complete rust en ontspanning!</p>",
+      "categories": [],
+      "properties": {
+        "guid_isPermaLink": ["false"],
+        "guid": ["5f9c25095f2854501ce74a49"],
+        "category": ["/sauna/sauna"],
+        "pubDate": ["Fri, 30 Oct 2020 15:36:57 GMT"],
+        "updated": ["2023-07-24T20:16:32+02:00"],
+        "enclosure_type": ["image/jpeg"],
+        "enclosure": [""]
+      },
+      "variations": []
+    },
+    {
+      "ID": "007aa13e598be8eb972c57870fe7b3921ad157a4",
+      "campaignID": 8308,
+      "name": "2 tickets voor Boutique Spa van BijHoen in Zuid-Limburg!",
+      "price": { "currency": "EUR", "amount": 0 },
+      "URL": "https://www.ticketveiling.nl/tickets/?tt=8308_1922718_228134_&r=https%3A%2F%2Fwww.ticketveiling.nl%2Fsauna%2Fsauna%2Fsauna-bijhoen-limburg-korting",
+      "images": [
+        "https://ticketveiling.imgix.net/aanbieders/Sauna Hoen/Bijhoen-1.jpg?q=70&w=560&h=300&fit=crop&auto=compress,format,enhance"
+      ],
+      "description": "<p>Genieten en ontspannen staat voorop bij Boutique spa van BijHoen. Kom tot rust in een van de sauna's of koel af in de saunatuin. Even tijd voor jezelf!</p>",
+      "categories": [],
+      "properties": {
+        "guid_isPermaLink": ["false"],
+        "guid": ["63f731fe984bc0b2291b7e64"],
+        "category": ["/sauna/sauna"],
+        "pubDate": ["Thu, 23 Feb 2023 10:29:34 GMT"],
+        "updated": ["2023-07-24T11:00:24+02:00"],
+        "enclosure_type": ["image/jpeg"],
+        "enclosure": [""]
+      },
+      "variations": []
+    },
+    {
+      "ID": "f688a489b6ac078cb3a491b5d4fea8e4eadca339",
+      "campaignID": 8308,
+      "name": "Voor 1 persoon een dagje ontspannen bij Sauna Het Friese Woud!",
+      "price": { "currency": "EUR", "amount": 0 },
+      "URL": "https://www.ticketveiling.nl/tickets/?tt=8308_1922718_228134_&r=https%3A%2F%2Fwww.ticketveiling.nl%2Fsauna%2Fsauna%2Fsauna-het-friese-woud-korting",
+      "images": [
+        "https://ticketveiling.imgix.net/aanbieders/Het Friese Woud/Friese-Woud-2-logo.jpg?q=70&w=560&h=300&fit=crop&auto=compress,format,enhance"
+      ],
+      "description": "<p>Een ontspannen dag bij Sauna Het Friese Woud waar je volledig tot rust komt! Voldoende faciliteiten om vele uren te genieten in een ambiance van rust.</p>",
+      "categories": [],
+      "properties": {
+        "guid_isPermaLink": ["false"],
+        "guid": ["646b2ddf8b5aa5b86404ae62"],
+        "category": ["/sauna/sauna"],
+        "pubDate": ["Mon, 22 May 2023 10:54:55 GMT"],
+        "updated": ["2023-07-24T11:00:23+02:00"],
+        "enclosure_type": ["image/jpeg"],
+        "enclosure": [""]
+      },
+      "variations": []
+    },
+    {
+      "ID": "d5ef4962805c3fa9d4ef0c20a8bb5eb6d299af4b",
+      "campaignID": 8308,
+      "name": "BLUE Collection Giftbox inclusief sauna dagentree!",
+      "price": { "currency": "EUR", "amount": 0 },
+      "URL": "https://www.ticketveiling.nl/tickets/?tt=8308_1922718_228134_&r=https%3A%2F%2Fwww.ticketveiling.nl%2Fsauna%2Fwellness-arrangementen%2Fblue-wellness-entree-giftbox-korting",
+      "images": [
+        "https://ticketveiling.imgix.net/aanbieders/Fletcher Hotel Exploitaties/blue welness/blue_1_3.jpg?q=70&w=560&h=300&fit=crop&auto=compress,format,enhance"
+      ],
+      "description": "<p>Wil jij iemand of jezelf verwennen en verrassen met een leuk cadeau? In deze luxe giftbox zit een handzeep, showergel en een shampoo van 250ml. Ook is een sauna dagentree bij één van de 8 BLUE locaties inbegrepen! </p>",
+      "categories": [],
+      "properties": {
+        "guid_isPermaLink": ["false"],
+        "guid": ["630f310f251e71ebb6c9906b"],
+        "category": ["/sauna/wellness-arrangementen"],
+        "pubDate": ["Wed, 31 Aug 2022 11:59:43 GMT"],
+        "updated": ["2023-07-24T21:31:55+02:00"],
+        "enclosure_type": ["image/jpeg"],
+        "enclosure": [""]
+      },
+      "variations": []
+    },
+    {
+      "ID": "ea34a8c3a7486f01d400bc363fee1ed7a3245474",
+      "campaignID": 8308,
+      "name": "Ontspanningsarrangement incl. High Tea voor 2 personen in Hoogeveen!",
+      "price": { "currency": "EUR", "amount": 0 },
+      "URL": "https://www.ticketveiling.nl/tickets/?tt=8308_1922718_228134_&r=https%3A%2F%2Fwww.ticketveiling.nl%2Fsauna%2Fbeautybehandelingen%2Fontspanningsarrangement-high-tea-hoogeveen-korting",
+      "images": [
+        "https://ticketveiling.imgix.net/aanbieders/Nail-en-Beauty-Point/nails.png?q=70&w=560&h=300&fit=crop&auto=compress,format,enhance"
+      ],
+      "description": "<p>Ga samen met je moeder, dochter of vriendin er heerlijk tussenuit in Hoogeveen. Beleef samen een dierbaar moment tijdens deze ontspanningsmassage en gezichtsbehandeling. Achteraf kun je samen genieten van een heerlijke high tea!</p>",
+      "categories": [],
+      "properties": {
+        "guid_isPermaLink": ["false"],
+        "guid": ["6419856b21402a223571b7d7"],
+        "category": ["/sauna/beautybehandelingen"],
+        "pubDate": ["Tue, 21 Mar 2023 11:22:35 GMT"],
+        "updated": ["2023-07-24T11:00:23+02:00"],
+        "enclosure_type": ["image/jpeg"],
+        "enclosure": [""]
+      },
+      "variations": []
+    },
+    {
+      "ID": "9b1225bb1bb6d4440eb676407c579b8c063d3b02",
+      "campaignID": 8308,
+      "name": "2 tickets voor Thermen & Wellness Anholts in Schoonebeek!",
+      "price": { "currency": "EUR", "amount": 0 },
+      "URL": "https://www.ticketveiling.nl/tickets/?tt=8308_1922718_228134_&r=https%3A%2F%2Fwww.ticketveiling.nl%2Fsauna%2Fsauna%2Fthermen-wellness-anholts-schoonebeek-korting",
+      "images": [
+        "https://ticketveiling.imgix.net/aanbieders/Thermen-Anholts/Anholts-1-logo.jpg?q=70&w=560&h=300&fit=crop&auto=compress,format,enhance"
+      ],
+      "description": "<p>Thermen & Wellness Anholts is gevestigd in het prachtige Beekdal-landschap. Geniet van sauna's en stoombaden, ervaar ultieme ontspanning en verwen jezelf op een compleet dagje uit in een rustgevende omgeving. </p>",
+      "categories": [],
+      "properties": {
+        "guid_isPermaLink": ["false"],
+        "guid": ["627bb412f8169c546019ee6b"],
+        "category": ["/sauna/sauna"],
+        "pubDate": ["Wed, 11 May 2022 15:03:14 GMT"],
+        "updated": ["2023-07-24T11:00:23+02:00"],
+        "enclosure_type": ["image/jpeg"],
+        "enclosure": [""]
+      },
+      "variations": []
+    },
+    {
+      "ID": "708eed9f02a4adbc6be63ab3dd44f9f8eb84be8d",
+      "campaignID": 8308,
+      "name": "Een ontspanningsmassage (25 minuten) bij Wine & Wellness in Utrecht!",
+      "price": { "currency": "EUR", "amount": 0 },
+      "URL": "https://www.ticketveiling.nl/tickets/?tt=8308_1922718_228134_&r=https%3A%2F%2Fwww.ticketveiling.nl%2Fsauna%2Fwellness-arrangementen%2Fontspanningsmassage-wine-wellness-utrecht-korting",
+      "images": [
+        "https://ticketveiling.imgix.net/aanbieders/Wine-en-Wellness/Ontspanningsmassage-logo-1.jpg?q=70&w=560&h=300&fit=crop&auto=compress,format,enhance"
+      ],
+      "description": "<p>Bij Wine & Wellness kun je terecht voor een persoonlijke en perfecte ontspanningsmassage die aansluit bij wat jij wilt en wat jouw lichaam vraagt. Geef je adem de ruimte, ontspan en geniet! </p>",
+      "categories": [],
+      "properties": {
+        "guid_isPermaLink": ["false"],
+        "guid": ["646b37d08b5aa5b86404aebd"],
+        "category": ["/sauna/wellness-arrangementen"],
+        "pubDate": ["Mon, 22 May 2023 11:37:20 GMT"],
+        "updated": ["2023-07-24T11:00:24+02:00"],
+        "enclosure_type": ["image/jpeg"],
+        "enclosure": [""]
+      },
+      "variations": []
+    },
+    {
+      "ID": "ca721cc45e241aeefd416718d82628ec229efb42",
+      "campaignID": 8308,
+      "name": "2 dagtickets voor Sauna Drôme in Putten!",
+      "price": { "currency": "EUR", "amount": 0 },
+      "URL": "https://www.ticketveiling.nl/tickets/?tt=8308_1922718_228134_&r=https%3A%2F%2Fwww.ticketveiling.nl%2Fsauna%2Fsauna%2Fsaunadrome-putten-dagentree-korting",
+      "images": [
+        "https://ticketveiling.imgix.net/aanbieders/Saunadrome Putten/Saunadrome-logo.jpg?q=70&w=560&h=300&fit=crop&auto=compress,format,enhance"
+      ],
+      "description": "<p>Kom genieten bij Sauna Drôme in Putten, een stukje Finland op de Veluwe! Middenin de prachtige natuur beleef je een fijne verwendag. De variatie aan sauna's en zwembaden zorgen ervoor dat jij helemaal tot rust komt.</p>",
+      "categories": [],
+      "properties": {
+        "guid_isPermaLink": ["false"],
+        "guid": ["6388ae5d602bf43de22528b0"],
+        "category": ["/sauna/sauna"],
+        "pubDate": ["Thu, 01 Dec 2022 14:38:37 GMT"],
+        "updated": ["2023-07-24T19:54:16+02:00"],
+        "enclosure_type": ["image/jpeg"],
+        "enclosure": [""]
+      },
+      "variations": []
+    },
+    {
+      "ID": "b4483ec7114a8cf127abf2f5dd804b526516a502",
+      "campaignID": 8308,
+      "name": "1 ticket voor Thermen Soesterberg!",
+      "price": { "currency": "EUR", "amount": 0 },
+      "URL": "https://www.ticketveiling.nl/tickets/?tt=8308_1922718_228134_&r=https%3A%2F%2Fwww.ticketveiling.nl%2Fsauna%2Fsauna%2Fthermen-soesterberg-korting",
+      "images": [
+        "https://ticketveiling.imgix.net/Logo_Juni_2023/soesterberg1.jpg?q=70&w=560&h=300&fit=crop&auto=compress,format,enhance"
+      ],
+      "description": "<p>Thermen Soesterberg is een wellnessresort gelegen in Soesterberg. Het resort biedt een breed scala aan ontspannings- en wellnessfaciliteiten, waaronder verschillende sauna's, baden, rustruimtes en behandelingen.</p>",
+      "categories": [],
+      "properties": {
+        "guid_isPermaLink": ["false"],
+        "guid": ["6319e85fce0f10b7793e8329"],
+        "category": ["/sauna/sauna"],
+        "pubDate": ["Thu, 08 Sep 2022 15:04:31 GMT"],
+        "updated": ["2023-07-24T15:49:11+02:00"],
+        "enclosure_type": ["image/jpeg"],
+        "enclosure": [""]
+      },
+      "variations": []
+    },
+    {
+      "ID": "1fb13a1656be31faa57d40d84961ad14ee4266ef",
+      "campaignID": 8308,
+      "name": "Voor 2 personen ontspannen bij SpaSereen in Maastricht!",
+      "price": { "currency": "EUR", "amount": 0 },
+      "URL": "https://www.ticketveiling.nl/tickets/?tt=8308_1922718_228134_&r=https%3A%2F%2Fwww.ticketveiling.nl%2Fsauna%2Fsauna%2Fspasereen-maastricht-korting",
+      "images": [
+        "https://ticketveiling.imgix.net/Logo_Juni_2023/spasereen1.jpg?q=70&w=560&h=300&fit=crop&auto=compress,format,enhance"
+      ],
+      "description": "<p>Een bezoek aan SpaSereen Maastricht is meer dan een dagje sauna. Het is een mini wellnessvakantie in Limburg! Geniet van de vele faciliteiten om volledig te ontspannen. </p>",
+      "categories": [],
+      "properties": {
+        "guid_isPermaLink": ["false"],
+        "guid": ["64410d4a0d0088d58be3792b"],
+        "category": ["/sauna/sauna"],
+        "pubDate": ["Thu, 20 Apr 2023 12:00:42 GMT"],
+        "updated": ["2023-07-24T19:57:47+02:00"],
+        "enclosure_type": ["image/jpeg"],
+        "enclosure": [""]
+      },
+      "variations": []
+    },
+    {
+      "ID": "3266af833a35c0343595ac48e0a8d12d02cafff8",
+      "campaignID": 8308,
+      "name": "Voor 1 persoon een dagje ontspannen bij Wine & Wellness in Utrecht!",
+      "price": { "currency": "EUR", "amount": 0 },
+      "URL": "https://www.ticketveiling.nl/tickets/?tt=8308_1922718_228134_&r=https%3A%2F%2Fwww.ticketveiling.nl%2Fsauna%2Fdagje-ontspannen-bij-wine-wellness-in-utrecht-korting",
+      "images": [
+        "https://ticketveiling.imgix.net/aanbieders/Wine-en-Wellness/Wine-en-Wellness-logo-11689323356.jpg?q=70&w=560&h=300&fit=crop&auto=compress,format,enhance"
+      ],
+      "description": "<p>Wine & Wellness is met ruim 500 vierkante meter het grootste wellnesscentra in de Utrechtse binnenstad. Hier kun je ontkomen aan de drukte van de stad en beleef je een unieke wellness ervaring in hartje Utrecht! </p>",
+      "categories": [],
+      "properties": {
+        "guid_isPermaLink": ["false"],
+        "guid": ["646dba8fca6cb6bc958b2756"],
+        "category": ["/sauna"],
+        "pubDate": ["Wed, 24 May 2023 09:19:43 GMT"],
+        "updated": ["2023-07-24T11:00:24+02:00"],
+        "enclosure_type": ["image/jpeg"],
+        "enclosure": [""]
+      },
+      "variations": []
+    },
+    {
+      "ID": "c2218a1d6e50bf4a5ffaf3184d74012e1cfaada3",
+      "campaignID": 8308,
+      "name": "Een ontspanningsmassage (55 minuten) bij Wine & Wellness in Utrecht!",
+      "price": { "currency": "EUR", "amount": 0 },
+      "URL": "https://www.ticketveiling.nl/tickets/?tt=8308_1922718_228134_&r=https%3A%2F%2Fwww.ticketveiling.nl%2Fsauna%2Fwellness-arrangementen%2Fontspanningsmassage-wine-wellness-utrecht-korting-2",
+      "images": [
+        "https://ticketveiling.imgix.net/aanbieders/Wine-en-Wellness/Ontspanningsmassage-logo-2.jpg?q=70&w=560&h=300&fit=crop&auto=compress,format,enhance"
+      ],
+      "description": "<p>Bij Wine & Wellness kun je terecht voor een persoonlijke en perfecte ontspanningsmassage die aansluit bij wat jij wilt en wat jouw lichaam vraagt. Geef je adem de ruimte, ontspan en geniet! </p>",
+      "categories": [],
+      "properties": {
+        "guid_isPermaLink": ["false"],
+        "guid": ["646b46a38b5aa5b86404af07"],
+        "category": ["/sauna/wellness-arrangementen"],
+        "pubDate": ["Mon, 22 May 2023 12:40:35 GMT"],
+        "updated": ["2023-07-24T11:00:24+02:00"],
+        "enclosure_type": ["image/jpeg"],
+        "enclosure": [""]
+      },
+      "variations": []
+    },
+    {
+      "ID": "529a595ff88fa9f0d89ea310e9a7ec701831fabf",
+      "campaignID": 8308,
+      "name": "Cryotherapie bij Frozen in Eindhoven!",
+      "price": { "currency": "EUR", "amount": 0 },
+      "URL": "https://www.ticketveiling.nl/tickets/?tt=8308_1922718_228134_&r=https%3A%2F%2Fwww.ticketveiling.nl%2Fsauna%2Fbeautybehandelingen%2Fcryotherapie-frozen-eindhoven-korting",
+      "images": [
+        "https://ticketveiling.imgix.net/aanbieders/Frozen/frozen_met_lofo.png?q=70&w=560&h=300&fit=crop&auto=compress,format,enhance"
+      ],
+      "description": "<p>Tijdens de cryo behandeling wordt je lichaam binnen 3 minuten blootgesteld aan een temperatuur van -110 ºC. De kou bevordert het verwijderen van dode cellen en gifstoffen uit je lichaam. Goed voor lichaam én geest! </p>",
+      "categories": [],
+      "properties": {
+        "guid_isPermaLink": ["false"],
+        "guid": ["62d91230db6f9530640b4bdd"],
+        "category": ["/sauna/beautybehandelingen"],
+        "pubDate": ["Thu, 21 Jul 2022 10:45:36 GMT"],
+        "updated": ["2023-07-24T11:00:24+02:00"],
+        "enclosure_type": ["image/jpeg"],
+        "enclosure": [""]
+      },
+      "variations": []
+    },
+    {
+      "ID": "198ea109b9e043a898b06cc394cb266b048be38f",
+      "campaignID": 8308,
+      "name": "Een heerlijk dagje ontspannen bij Sauna de Bron voor 2 personen!",
+      "price": { "currency": "EUR", "amount": 0 },
+      "URL": "https://www.ticketveiling.nl/tickets/?tt=8308_1922718_228134_&r=https%3A%2F%2Fwww.ticketveiling.nl%2Fsauna%2Fsauna%2Fsauna-de-bron-korting",
+      "images": [
+        "https://ticketveiling.imgix.net/aanbieders/Sauna-de-Bron/Sauna-de-Bron-21689325018.jpg?q=70&w=560&h=300&fit=crop&auto=compress,format,enhance"
+      ],
+      "description": "<p>Een hele dag genieten van wellness bij Sauna de Bron in Tynaarlo. Er zijn voldoende faciliteiten om vele uren te genieten in een ambiance van rust! </p>",
+      "categories": [],
+      "properties": {
+        "guid_isPermaLink": ["false"],
+        "guid": ["62baed845a3e180304905c7c"],
+        "category": ["/sauna/sauna"],
+        "pubDate": ["Tue, 28 Jun 2022 14:01:08 GMT"],
+        "updated": ["2023-07-24T11:00:23+02:00"],
+        "enclosure_type": ["image/jpeg"],
+        "enclosure": [""]
+      },
+      "variations": []
+    },
+    {
+      "ID": "741d939796fbdd05ab90a425f590080487659988",
+      "campaignID": 8308,
+      "name": "Een luxe gezichtsbehandeling Royalty Beauty Lounge in Rotterdam!",
+      "price": { "currency": "EUR", "amount": 0 },
+      "URL": "https://www.ticketveiling.nl/tickets/?tt=8308_1922718_228134_&r=https%3A%2F%2Fwww.ticketveiling.nl%2Fsauna%2Fwellness-arrangementen%2Fgezichtsbehandeling-royalty-beauty-lounge-korting",
+      "images": [
+        "https://ticketveiling.imgix.net/aanbieders/Royalty-Beauty-Lounge/Royalty-Beauty-Lounge-11688996886.jpg?q=70&w=560&h=300&fit=crop&auto=compress,format,enhance"
+      ],
+      "description": "<p>De zonnige zomerdagen staan weer voor de deur! Tijd om je huid een boost te geven met deze luxe gezichtsbehandeling bij Royalty Beauty Lounge in Rotterdam!</p>",
+      "categories": [],
+      "properties": {
+        "guid_isPermaLink": ["false"],
+        "guid": ["64ac00d66869e0fbfb0aa238"],
+        "category": ["/sauna/wellness-arrangementen"],
+        "pubDate": ["Mon, 10 Jul 2023 15:00:06 GMT"],
+        "updated": ["2023-07-25T01:00:01+02:00"],
+        "enclosure_type": ["image/jpeg"],
+        "enclosure": [""]
+      },
+      "variations": []
+    },
+    {
+      "ID": "9273b892f2d8fe1d3d1e2d225fec8c1835c55866",
+      "campaignID": 8308,
+      "name": "Avondentree voor 2 personen bij Wine & Wellness in Utrecht!",
+      "price": { "currency": "EUR", "amount": 0 },
+      "URL": "https://www.ticketveiling.nl/tickets/?tt=8308_1922718_228134_&r=https%3A%2F%2Fwww.ticketveiling.nl%2Fsauna%2Fsauna%2Favondentree-voor-2-personen-bij-wine-wellness-in-utrecht-korting",
+      "images": [
+        "https://ticketveiling.imgix.net/aanbieders/Wine-en-Wellness/Wine-en-wellness-logo-11688723243.jpg?q=70&w=560&h=300&fit=crop&auto=compress,format,enhance"
+      ],
+      "description": "<p>Wine & Wellness is met ruim 500 vierkante meter het grootste wellnesscentra in de Utrechtse binnenstad. Hier ontkom je aan de drukte van de stad én beleef je een unieke wellness ervaring in hartje Utrecht!</p>",
+      "categories": [],
+      "properties": {
+        "guid_isPermaLink": ["false"],
+        "guid": ["647f032c5416524e5a4fadc1"],
+        "category": ["/sauna/sauna"],
+        "pubDate": ["Tue, 06 Jun 2023 11:58:04 GMT"],
+        "updated": ["2023-07-24T11:00:23+02:00"],
+        "enclosure_type": ["image/jpeg"],
+        "enclosure": [""]
+      },
+      "variations": []
+    },
+    {
+      "ID": "52d4713e1fac173a8b0e1819eca740680668c3eb",
+      "campaignID": 8308,
+      "name": "Ervaar 3 minuten in -110 graden Celsius bij Freezlab voor 2 personen!",
+      "price": { "currency": "EUR", "amount": 0 },
+      "URL": "https://www.ticketveiling.nl/tickets/?tt=8308_1922718_228134_&r=https%3A%2F%2Fwww.ticketveiling.nl%2Fsauna%2Fwellness-arrangementen%2Ffreezlab",
+      "images": [
+        "https://ticketveiling.imgix.net/aanbieders/Freezlab Amsterdam/Freezelab-logo-1.jpg?q=70&w=560&h=300&fit=crop&auto=compress,format,enhance"
+      ],
+      "description": "<p>Geef jouw lichaam een volledige reset bij Freezlab Amsterdam. Ontdek de voordelen van Cryotherapie zoals een jongere huid, een betere doorbloeding en een betere weerstand. Voor 3 minuten lang sta je in -110 ºC!</p>",
+      "categories": [],
+      "properties": {
+        "guid_isPermaLink": ["false"],
+        "guid": ["5f0f9c5662ccdf73583caf29"],
+        "category": ["/sauna/wellness-arrangementen"],
+        "pubDate": ["Mon, 01 Jan 0001 00:00:00 GMT"],
+        "updated": ["2023-07-24T11:00:23+02:00"],
+        "enclosure_type": ["image/jpeg"],
+        "enclosure": [""]
+      },
+      "variations": []
+    },
+    {
+      "ID": "9e004c64bc638cabc850e9406f5b83251cd6c22f",
+      "campaignID": 8308,
+      "name": "Voor 2 personen sauna entree en 1 uur padellen bij Sauna Dennenmarken!",
+      "price": { "currency": "EUR", "amount": 0 },
+      "URL": "https://www.ticketveiling.nl/tickets/?tt=8308_1922718_228134_&r=https%3A%2F%2Fwww.ticketveiling.nl%2Fsauna%2Fsauna-entree-padellen-sauna-dennenmarken-korting",
+      "images": [
+        "https://ticketveiling.imgix.net/aanbieders/Dennenmarken-Sauna/Sauna-Dennenmarken-Padel-1-logo.jpg?q=70&w=560&h=300&fit=crop&auto=compress,format,enhance"
+      ],
+      "description": "<p>Maak een dagje wellness bij Sauna Dennenmarken compleet met een uurtje padellen! Kom volledig tot rust en geniet van alle comfort en sauna's die Sauna Dennenmarken te bieden heeft. Sluit de dag af met een sportief uurtje padellen! </p>",
+      "categories": [],
+      "properties": {
+        "guid_isPermaLink": ["false"],
+        "guid": ["645cf64bbd1e3b2f784e3976"],
+        "category": ["/sauna"],
+        "pubDate": ["Thu, 11 May 2023 16:06:03 GMT"],
+        "updated": ["2023-07-24T11:00:23+02:00"],
+        "enclosure_type": ["image/jpeg"],
+        "enclosure": [""]
+      },
+      "variations": []
+    },
+    {
+      "ID": "363875df8c1faa7397cabae46c93b00b959b7fb0",
+      "campaignID": 8308,
+      "name": "2-daags BLUE Wellness Arrangement voor 2 personen incl. ontbijt!",
+      "price": { "currency": "EUR", "amount": 0 },
+      "URL": "https://www.ticketveiling.nl/tickets/?tt=8308_1922718_228134_&r=https%3A%2F%2Fwww.ticketveiling.nl%2Fhotels%2Ffletcher-hotels-blue-wellness-arrangement-korting",
+      "images": [
+        "https://ticketveiling.imgix.net/Logo-januari-2023/bluewelnes1673947302.jpg?q=70&w=560&h=300&fit=crop&auto=compress,format,enhance"
+      ],
+      "description": "<p>Ben jij ook zo toe aan ontspanning? Dit arrangement zorgt ervoor dat je jezelf weer helemaal kunt opladen. Naast een hotelovernachting incl. uitgebreid ontbijt is ook een sauna dagentree inbegrepen. </p>",
+      "categories": [],
+      "properties": {
+        "guid_isPermaLink": ["false"],
+        "guid": ["615eeba5f31b0ed567cfdd99"],
+        "category": ["/hotels"],
+        "pubDate": ["Thu, 07 Oct 2021 14:44:21 GMT"],
+        "updated": ["2023-07-24T11:00:21+02:00"],
+        "enclosure_type": ["image/jpeg"],
+        "enclosure": [""]
+      },
+      "variations": []
+    },
+    {
+      "ID": "fce2ed98c119ca9b9434b11f7ee8a03798ca7a63",
+      "campaignID": 8308,
+      "name": "Een gezichtsbehandeling (30 minuten) bij Wine & Wellness in Utrecht!",
+      "price": { "currency": "EUR", "amount": 0 },
+      "URL": "https://www.ticketveiling.nl/tickets/?tt=8308_1922718_228134_&r=https%3A%2F%2Fwww.ticketveiling.nl%2Fsauna%2Fwellness-arrangementen%2Fgezichtsbehandeling-wine-wellness-utrecht-korting",
+      "images": [
+        "https://ticketveiling.imgix.net/aanbieders/Wine-en-Wellness/Wine-en-wellness-1-logo.jpg?q=70&w=560&h=300&fit=crop&auto=compress,format,enhance"
+      ],
+      "description": "<p>Maak gebruik van een gezichtsbehandeling om je huid weer te laten stralen of om je huid te laten reinigen. Geniet 30 minuten lang van een gezichtsbehandeling die geschikt is voor jouw huidtype. Dit alles in hartje Utrecht! </p>",
+      "categories": [],
+      "properties": {
+        "guid_isPermaLink": ["false"],
+        "guid": ["646b54cabb4f69afb2084860"],
+        "category": ["/sauna/wellness-arrangementen"],
+        "pubDate": ["Mon, 22 May 2023 13:40:58 GMT"],
+        "updated": ["2023-07-24T11:00:24+02:00"],
+        "enclosure_type": ["image/jpeg"],
+        "enclosure": [""]
+      },
+      "variations": []
+    },
+    {
+      "ID": "17d46480c79c46cf371df235143bd807d844f226",
+      "campaignID": 8308,
+      "name": "2 tickets voor een heerlijke saunadag bij Centre du Lac!",
+      "price": { "currency": "EUR", "amount": 0 },
+      "URL": "https://www.ticketveiling.nl/tickets/?tt=8308_1922718_228134_&r=https%3A%2F%2Fwww.ticketveiling.nl%2Fsauna%2Fsauna%2Fcentre-du-lac-dagentree-korting",
+      "images": [
+        "https://ticketveiling.imgix.net/Logo-januari-2023/centredulac2.jpg?q=70&w=560&h=300&fit=crop&auto=compress,format,enhance"
+      ],
+      "description": "<p>Centre du Lac is een heerlijke sauna. Het is van alle gemakken voorzien om een fijne ontspannen sauna dag te hebben! De sauna bevindt zich in een prachtige rustgevende omgeving.</p>",
+      "categories": [],
+      "properties": {
+        "guid_isPermaLink": ["false"],
+        "guid": ["6176a9382725a20fe00f03ea"],
+        "category": ["/sauna/sauna"],
+        "pubDate": ["Mon, 25 Oct 2021 14:55:20 GMT"],
+        "updated": ["2023-07-24T22:09:55+02:00"],
+        "enclosure_type": ["image/jpeg"],
+        "enclosure": [""]
+      },
+      "variations": []
+    },
+    {
+      "ID": "f229c268826894d4ebe3bfc832c3e5281aa59225",
+      "campaignID": 8308,
+      "name": "Avondentree voor 1 persoon bij Wine & Wellness in Utrecht!",
+      "price": { "currency": "EUR", "amount": 0 },
+      "URL": "https://www.ticketveiling.nl/tickets/?tt=8308_1922718_228134_&r=https%3A%2F%2Fwww.ticketveiling.nl%2Fsauna%2Fsauna%2Favondentree-voor-1-persoon-bij-wine-wellness-in-utrecht-korting-2",
+      "images": [
+        "https://ticketveiling.imgix.net/aanbieders/Wine-en-Wellness/Wine-en-Wellness-1-logo1688724214.jpg?q=70&w=560&h=300&fit=crop&auto=compress,format,enhance"
+      ],
+      "description": "<p>Wine & Wellness is met ruim 500 vierkante meter het grootste wellnesscentra in de Utrechtse binnenstad. Hier ontkom je aan de drukte van de stad én beleef je een unieke wellness ervaring in hartje Utrecht!</p>",
+      "categories": [],
+      "properties": {
+        "guid_isPermaLink": ["false"],
+        "guid": ["647f1f995416524e5a4fae34"],
+        "category": ["/sauna/sauna"],
+        "pubDate": ["Tue, 06 Jun 2023 13:59:21 GMT"],
+        "updated": ["2023-07-24T11:00:24+02:00"],
+        "enclosure_type": ["image/jpeg"],
+        "enclosure": [""]
+      },
+      "variations": []
+    },
+    {
+      "ID": "48ab6bff0a14c4ba4b52d08a48397ceb12ed4c7b",
+      "campaignID": 8308,
+      "name": "1 avond entreeticket voor Sauna Drôme in Putten!",
+      "price": { "currency": "EUR", "amount": 0 },
+      "URL": "https://www.ticketveiling.nl/tickets/?tt=8308_1922718_228134_&r=https%3A%2F%2Fwww.ticketveiling.nl%2Fsauna%2Fsauna%2Fsaunadrome-putten-avondentree-1persoon",
+      "images": [
+        "https://ticketveiling.imgix.net/aanbieders/Saunadrome Putten/Saunadrome-logo-4.jpg?q=70&w=560&h=300&fit=crop&auto=compress,format,enhance"
+      ],
+      "description": "<p>Kom heerlijk genieten bij Sauna Drôme in Putten, een stukje Finland op de Veluwe! Middenin de prachtige natuur van de Veluwe beleef je een fijne verwendag.</p>",
+      "categories": [],
+      "properties": {
+        "guid_isPermaLink": ["false"],
+        "guid": ["6389d338ea46c49aff5d446d"],
+        "category": ["/sauna/sauna"],
+        "pubDate": ["Fri, 02 Dec 2022 11:28:08 GMT"],
+        "updated": ["2023-07-24T11:00:24+02:00"],
+        "enclosure_type": ["image/jpeg"],
+        "enclosure": [""]
+      },
+      "variations": []
+    },
+    {
+      "ID": "8872b7831a33cc7cc43dc8278672cdfd25637230",
+      "campaignID": 8308,
+      "name": "Entree voor 1 persoon bij sauna Aquarein in Grobbendonk (België)!",
+      "price": { "currency": "EUR", "amount": 0 },
+      "URL": "https://www.ticketveiling.nl/tickets/?tt=8308_1922718_228134_&r=https%3A%2F%2Fwww.ticketveiling.nl%2Fsauna%2Fsauna%2Fsauna-aquarein-grobbendonk-belgie-korting",
+      "images": [
+        "https://ticketveiling.imgix.net/aanbieders/Sauna-Aquarein/2023/Logo-Aquarein-1.jpg?q=70&w=560&h=300&fit=crop&auto=compress,format,enhance"
+      ],
+      "description": "<p>Sauna Aquarein in België staat garant voor een hele dag comfort en luxe. Waan je in een omgeving van rust en geniet van de vele faciliteiten die Sauna Aquarein je te bieden heeft.</p>",
+      "categories": [],
+      "properties": {
+        "guid_isPermaLink": ["false"],
+        "guid": ["6481ae0ed84be86bc875ad35"],
+        "category": ["/sauna/sauna"],
+        "pubDate": ["Thu, 08 Jun 2023 12:31:42 GMT"],
+        "updated": ["2023-07-24T11:00:24+02:00"],
+        "enclosure_type": ["image/jpeg"],
+        "enclosure": [""]
+      },
+      "variations": []
+    },
+    {
+      "ID": "56b4ad2667c7fadf966ae8f772b1555ce44ad7d8",
+      "campaignID": 8308,
+      "name": "Stap voor 3 minuten in een kamer van -110 °C bij Freezlab Amsterdam!",
+      "price": { "currency": "EUR", "amount": 0 },
+      "URL": "https://www.ticketveiling.nl/tickets/?tt=8308_1922718_228134_&r=https%3A%2F%2Fwww.ticketveiling.nl%2Fsauna%2Fwellness-arrangementen%2Ffreezlab-korting",
+      "images": [
+        "https://ticketveiling.imgix.net/aanbieders/Freezlab Amsterdam/Freezelab-logo-2.jpg?q=70&w=560&h=300&fit=crop&auto=compress,format,enhance"
+      ],
+      "description": "<p>Geef jouw lichaam een volledige reset bij Freezlab Amsterdam. Ontdek de voordelen van Cryotherapie zoals een jongere huid, een betere doorbloeding en een betere weerstand. Voor 3 minuten lang sta je in -110 ºC!</p>",
+      "categories": [],
+      "properties": {
+        "guid_isPermaLink": ["false"],
+        "guid": ["5f2181f9b7b7823068d5b8ee"],
+        "category": ["/sauna/wellness-arrangementen"],
+        "pubDate": ["Wed, 29 Jul 2020 16:04:41 GMT"],
+        "updated": ["2023-07-24T11:00:23+02:00"],
+        "enclosure_type": ["image/jpeg"],
+        "enclosure": [""]
+      },
+      "variations": []
+    },
+    {
+      "ID": "bcf7cf4e668159619a5b53c27f51a746c0fd46a7",
+      "campaignID": 8308,
+      "name": "3 cryolipolyse-behandelingen van max. 5 zones naar keuze bij Perfect You!",
+      "price": { "currency": "EUR", "amount": 0 },
+      "URL": "https://www.ticketveiling.nl/tickets/?tt=8308_1922718_228134_&r=https%3A%2F%2Fwww.ticketveiling.nl%2Fsauna%2Fbeautybehandelingen%2F3-cryolipolyse-behandeling-5-zones",
+      "images": [
+        "https://ticketveiling.imgix.net/aanbieders/perfect you/cryolipolise/6.png?q=70&w=560&h=300&fit=crop&auto=compress,format,enhance"
+      ],
+      "description": "<p>Op een natuurlijke manier ongewenst lichaamsvet verliezen met de cryolipolyse-behandeling van Perfect You! Keuze uit locatie Arnhem, Den Bosch, Eindhoven en Rijswijk.</p>",
+      "categories": [],
+      "properties": {
+        "guid_isPermaLink": ["false"],
+        "guid": ["5fca011a2ed8c812d4bd3d78"],
+        "category": ["/sauna/beautybehandelingen"],
+        "pubDate": ["Fri, 04 Dec 2020 10:27:54 GMT"],
+        "updated": ["2023-07-24T11:00:24+02:00"],
+        "enclosure_type": ["image/jpeg"],
+        "enclosure": [""]
+      },
+      "variations": []
+    },
+    {
+      "ID": "cbe383a0500b0514c11fb08afba50ffa9fcae38a",
+      "campaignID": 8308,
+      "name": "1 dagticket voor Sauna Drôme in Putten!",
+      "price": { "currency": "EUR", "amount": 0 },
+      "URL": "https://www.ticketveiling.nl/tickets/?tt=8308_1922718_228134_&r=https%3A%2F%2Fwww.ticketveiling.nl%2Fsauna%2Fsauna%2Fsaunadrome-putten-dagentree-1",
+      "images": [
+        "https://ticketveiling.imgix.net/aanbieders/Saunadrome Putten/Sauna-Drome-22.jpg?q=70&w=560&h=300&fit=crop&auto=compress,format,enhance"
+      ],
+      "description": "<p>Kom heerlijk genieten bij Sauna Drôme in Putten, een stukje Finland op de Veluwe! Middenin de prachtige natuur van de Veluwe beleef je een fijne verwendag.</p>",
+      "categories": [],
+      "properties": {
+        "guid_isPermaLink": ["false"],
+        "guid": ["6389cf50ea46c49aff5d4445"],
+        "category": ["/sauna/sauna"],
+        "pubDate": ["Fri, 02 Dec 2022 11:11:28 GMT"],
+        "updated": ["2023-07-24T13:15:36+02:00"],
+        "enclosure_type": ["image/jpeg"],
+        "enclosure": [""]
+      },
+      "variations": []
+    },
+    {
+      "ID": "80843711bea9790e71cb03eba51590b774777c4f",
+      "campaignID": 8308,
+      "name": "Een heerlijk ontspannen saunadag bij Centre du Lac voor 1 persoon!",
+      "price": { "currency": "EUR", "amount": 0 },
+      "URL": "https://www.ticketveiling.nl/tickets/?tt=8308_1922718_228134_&r=https%3A%2F%2Fwww.ticketveiling.nl%2Fsauna%2Fsauna%2Fsauna-centredulac-korting",
+      "images": [
+        "https://ticketveiling.imgix.net/Logo-januari-2023/centredulac.jpg?q=70&w=560&h=300&fit=crop&auto=compress,format,enhance"
+      ],
+      "description": "<p>Ben je toe aan ontspanning? Dan is Centre du Lac de perfecte locatie. Centre du Lac is een heerlijke sauna die van alle gemakken is voorzien om een fijne ontspannen sauna dag te hebben!</p>",
+      "categories": [],
+      "properties": {
+        "guid_isPermaLink": ["false"],
+        "guid": ["61fa5093b917dcf59ca5ad4e"],
+        "category": ["/sauna/sauna"],
+        "pubDate": ["Wed, 02 Feb 2022 10:36:19 GMT"],
+        "updated": ["2023-07-24T11:00:22+02:00"],
+        "enclosure_type": ["image/jpeg"],
+        "enclosure": [""]
+      },
+      "variations": []
+    },
+    {
+      "ID": "b07e6b7c76be4b95c827bc86c93be78a0ecc0c01",
+      "campaignID": 8308,
+      "name": "Een strakke huid met de Laser Facelift; 1 gelaats- en halsbehandeling!",
+      "price": { "currency": "EUR", "amount": 0 },
+      "URL": "https://www.ticketveiling.nl/tickets/?tt=8308_1922718_228134_&r=https%3A%2F%2Fwww.ticketveiling.nl%2Fsauna%2Fbeautybehandelingen%2Flaser-facelift-perfect-you-hals-korting",
+      "images": [
+        "https://ticketveiling.imgix.net/aanbieders/perfect you/4.png?q=70&w=560&h=300&fit=crop&auto=compress,format,enhance"
+      ],
+      "description": "<p>Herstel de huid met een laser facelift behandeling bij Perfect You Skin Clinic in Arnhem, Den Bosch, Den Haag of Eindhoven. Na één behandeling is het resultaat 100 % zichtbaar. Rimpels trekken weg en de huid word strakker.</p>",
+      "categories": [],
+      "properties": {
+        "guid_isPermaLink": ["false"],
+        "guid": ["5fca0e742ed8c812d4bd3de5"],
+        "category": ["/sauna/beautybehandelingen"],
+        "pubDate": ["Fri, 04 Dec 2020 11:24:52 GMT"],
+        "updated": ["2023-07-24T11:00:23+02:00"],
+        "enclosure_type": ["image/jpeg"],
+        "enclosure": [""]
+      },
+      "variations": []
+    },
+    {
+      "ID": "ad2fa3ef6fe488cc469f91cb5077ae69446404c8",
+      "campaignID": 8308,
+      "name": "2 tickets voor Wellnessresort de Waterlelie!",
+      "price": { "currency": "EUR", "amount": 0 },
+      "URL": "https://www.ticketveiling.nl/tickets/?tt=8308_1922718_228134_&r=https%3A%2F%2Fwww.ticketveiling.nl%2Fsauna%2Fsauna%2Fwellnessresort-de-waterlelie-korting",
+      "images": [
+        "https://ticketveiling.imgix.net/aanbieders/Wellnessresort-Waterlelie/Waterlelie.jpg?q=70&w=560&h=300&fit=crop&auto=compress,format,enhance"
+      ],
+      "description": "<p>De Waterlelie biedt alles wat je verwacht van een wellnessdag. Een breed scala aan originele sauna's, diverse binnen- en buitenbaden, een oase van rust in de groene tuin en een fijne gemoedelijke sfeer! Incl. opgieting 2/3 geuren.</p>",
+      "categories": [],
+      "properties": {
+        "guid_isPermaLink": ["false"],
+        "guid": ["631096e1b4295813a1566350"],
+        "category": ["/sauna/sauna"],
+        "pubDate": ["Thu, 01 Sep 2022 13:26:25 GMT"],
+        "updated": ["2023-07-24T15:36:02+02:00"],
+        "enclosure_type": ["image/jpeg"],
+        "enclosure": [""]
+      },
+      "variations": []
+    },
+    {
+      "ID": "fdb32674362e22bbd7743f4a29e4dfdb1d75c0af",
+      "campaignID": 8308,
+      "name": "De SUMMER Special, huidverbeterende gezichtsbehandeling bij Skin Bliss in Heteren!",
+      "price": { "currency": "EUR", "amount": 0 },
+      "URL": "https://www.ticketveiling.nl/tickets/?tt=8308_1922718_228134_&r=https%3A%2F%2Fwww.ticketveiling.nl%2Fsauna%2Fbeautybehandelingen%2Fsummer-special-gezichtsbehandeling-skin-bliss-korting",
+      "images": [
+        "https://ticketveiling.imgix.net/aanbieders/Skin-Bliss/Skin_Bliss_2_.jpg?q=70&w=560&h=300&fit=crop&auto=compress,format,enhance"
+      ],
+      "description": "<p>De zonnige zomerdagen staan weer voor de deur! Tijd om je huid een boost te geven met deze zomerspecial bij SKIN BLISS in Heteren. Ze gaan jouw huid voorbereiden op de zomer en dat betekent hydrateren én beschermen!</p>",
+      "categories": [],
+      "properties": {
+        "guid_isPermaLink": ["false"],
+        "guid": ["64886f9a3314f3f1f5f80f07"],
+        "category": ["/sauna/beautybehandelingen"],
+        "pubDate": ["Tue, 13 Jun 2023 15:31:06 GMT"],
+        "updated": ["2023-07-24T11:00:24+02:00"],
+        "enclosure_type": ["image/jpeg"],
+        "enclosure": [""]
+      },
+      "variations": []
+    },
+    {
+      "ID": "5161e80574d0aa4b5d76de8e7b99b465ee9349d4",
+      "campaignID": 8308,
+      "name": "Laser Facelift 3 gelaatsbehandelingen bij Perfect You!",
+      "price": { "currency": "EUR", "amount": 0 },
+      "URL": "https://www.ticketveiling.nl/tickets/?tt=8308_1922718_228134_&r=https%3A%2F%2Fwww.ticketveiling.nl%2Fsauna%2Fbeautybehandelingen%2F3-gelaatsbehandelingen-perfect-you-korting",
+      "images": [
+        "https://ticketveiling.imgix.net/aanbieders/perfect you/2.png?q=70&w=560&h=300&fit=crop&auto=compress,format,enhance"
+      ],
+      "description": "<p>Herstel de huid met een laser facelift behandeling bij Perfect You Skin Clinic in Arnhem, Den Bosch, Den Haag of Eindhoven. Na één behandeling is het resultaat 100 % zichtbaar. Rimpels trekken weg en de huid word strakker.</p>",
+      "categories": [],
+      "properties": {
+        "guid_isPermaLink": ["false"],
+        "guid": ["5fca111e2ed8c812d4bd3e0d"],
+        "category": ["/sauna/beautybehandelingen"],
+        "pubDate": ["Fri, 04 Dec 2020 11:36:14 GMT"],
+        "updated": ["2023-07-24T11:00:24+02:00"],
+        "enclosure_type": ["image/jpeg"],
+        "enclosure": [""]
+      },
+      "variations": []
+    },
+    {
+      "ID": "7b5173045e802af1c6e8dd1359cde84741dd5203",
+      "campaignID": 8308,
+      "name": "Pedicurebehandeling naar keuze bij Royalty Beauty Lounge in Rotterdam!",
+      "price": { "currency": "EUR", "amount": 0 },
+      "URL": "https://www.ticketveiling.nl/tickets/?tt=8308_1922718_228134_&r=https%3A%2F%2Fwww.ticketveiling.nl%2Fsauna%2Fwellness-arrangementen%2Fpedicurebehandeling-royalty-beauty-lounge-rotterdam-korting",
+      "images": [
+        "https://ticketveiling.imgix.net/aanbieders/Royalty-Beauty-Lounge/Royalty-Beauty-Lounge.jpg?q=70&w=560&h=300&fit=crop&auto=compress,format,enhance"
+      ],
+      "description": "<p>Dompel je voeten onder in een verfrissende Spa Pedicure. Tijdens de pedicure komen je voeten tot rust in een voetenbad, worden je nagels geknipt en gevijld en krijg je tot slot een ontspannende voetmassage!</p>",
+      "categories": [],
+      "properties": {
+        "guid_isPermaLink": ["false"],
+        "guid": ["64abbb486869e0fbfb0aa069"],
+        "category": ["/sauna/wellness-arrangementen"],
+        "pubDate": ["Mon, 10 Jul 2023 10:03:20 GMT"],
+        "updated": ["2023-07-25T01:00:01+02:00"],
+        "enclosure_type": ["image/jpeg"],
+        "enclosure": [""]
+      },
+      "variations": []
+    }
+  ]
+}
