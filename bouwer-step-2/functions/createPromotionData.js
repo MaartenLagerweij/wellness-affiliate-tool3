@@ -1,3 +1,4 @@
+const fs = require('fs');
 //This whole file is used to first receive the data and then create a mappedPromotions array of all promotions that each contains an object with only the necessary data
 const wellnessListIDs = require('../data/wellnessListIDs.js');
 const spaOnlineDaisyconJSON = require('../data/daisycon-spaonline.json');
@@ -71,7 +72,15 @@ const mappedPromotions = filteredPromotions.map((promotion,index) => {
         location: promotion.properties.city,
     }
 })
-console.log(mappedPromotions);
+
+fs.writeFile('./data/output.json', JSON.stringify(mappedPromotions), (err) => {
+    if(err) {
+        console.log(err);
+    } else {
+        console.log('wrote data to ./data/output.json');
+    }
+})
+
 
 // //Create object with number of products for each campagne, which can be used in the filter
 // const numPromotionsForFilter = {
