@@ -32,7 +32,7 @@ export const campaigns = {
             image: 'https://wellnesscentrumnederland.nl/wp-content/uploads/2023/07/zoweg-logo.jpg'
         },
         13048: {
-            name: 'ADWebwinkel',
+            name: 'AD Webwinkel',
             image: 'https://wellnesscentrumnederland.nl/wp-content/uploads/2020/02/ad-webwinkel-logo.png'
         },
     }

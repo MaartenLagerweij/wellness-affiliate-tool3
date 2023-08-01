@@ -2,6 +2,7 @@
     {
       "id": 0,
       "campaignID": 11136,
+      "wellnessName": "Parkhotel Horst",
       "title": "Parkhotel Horst",
       "url": "https://lt45.net/c/?si=11136&li=1500380&wi=244044&pid=fa547154ab6117a0ea55a9a45e9dc94c&dl=limburg%2Fparkhotel-horst&ws=",
       "oldPrice": 159,
@@ -12,6 +13,7 @@
     {
       "id": 1,
       "campaignID": 11136,
+      "wellnessName": "Wellness Center De Bronsbergen",
       "title": "Wellness Center NLG de Bronsbergen",
       "url": "https://lt45.net/c/?si=11136&li=1500380&wi=244044&pid=43ddd8c13ed00195cae3c20760fc93d5&dl=gelderland%2Fsauna-bronsbergen-zutphen&ws=",
       "oldPrice": 41.5,
@@ -22,6 +24,7 @@
     {
       "id": 2,
       "campaignID": 11136,
+      "wellnessName": "Wellness Goes",
       "title": "Wellnessresort Goes",
       "url": "https://lt45.net/c/?si=11136&li=1500380&wi=244044&pid=9c655e6dfe292608d6887e6127b36903&dl=zeeland%2Fwellness-goes&ws=",
       "oldPrice": 30.5,
@@ -32,6 +35,7 @@
     {
       "id": 3,
       "campaignID": 11136,
+      "wellnessName": "Thermae Son",
       "title": "Thermae Son",
       "url": "https://lt45.net/c/?si=11136&li=1500380&wi=244044&pid=2298c195cac162984053a7a30f372a1a&dl=noord-brabant%2Fthermae-son&ws=",
       "oldPrice": 34,
@@ -42,6 +46,7 @@
     {
       "id": 4,
       "campaignID": 11136,
+      "wellnessName": "Spavarin",
       "title": "Spavarin",
       "url": "https://lt45.net/c/?si=11136&li=1500380&wi=244044&pid=21cc58983803b178d2a4e89834e3a937&dl=zuid-holland%2Fspavarin&ws=",
       "oldPrice": 25,
@@ -52,6 +57,7 @@
     {
       "id": 5,
       "campaignID": 11136,
+      "wellnessName": "Sauna Beautyfarm Midwolda",
       "title": "Sauna Beauty Farm Midwolda",
       "url": "https://lt45.net/c/?si=11136&li=1500380&wi=244044&pid=635881ca3b3a4fcc4665452c5935b121&dl=groningen%2Fsauna-beauty-farm-midwolda&ws=",
       "oldPrice": 26.5,
@@ -62,6 +68,7 @@
     {
       "id": 6,
       "campaignID": 11136,
+      "wellnessName": "Sauna En Beauty Ommen",
       "title": "Sauna & Beauty Ommen",
       "url": "https://lt45.net/c/?si=11136&li=1500380&wi=244044&pid=768d34d03649f0961d0fe337c8d73988&dl=overijssel%2Fsauna-beauty-ommen&ws=",
       "oldPrice": 22.5,
@@ -72,6 +79,7 @@
     {
       "id": 7,
       "campaignID": 11136,
+      "wellnessName": "Sauna Epe",
       "title": "Saunapark Epe",
       "url": "https://lt45.net/c/?si=11136&li=1500380&wi=244044&pid=47e957843c634d53657245c8f04fe0c2&dl=overijssel%2Fsaunapark-epe&ws=",
       "oldPrice": 29.5,
@@ -82,6 +90,7 @@
     {
       "id": 8,
       "campaignID": 4179,
+      "wellnessName": "De Zwaluwhoeve",
       "title": "Zwaluwhoeve in Hierden, Gelderland: dagentree",
       "url": "https://tc.tradetracker.net/?c=4179&m=1185051&a=228134&r=&u=https%3A%2F%2Fwww.vakantieveilingen.nl%2Fveilingen%2Fsauna-en-beauty%2Fsauna-en-wellness%2Fzwaluwhoeve-sauna%2F32874",
       "oldPrice": null,
@@ -92,6 +101,7 @@
     {
       "id": 9,
       "campaignID": 4179,
+      "wellnessName": "Veluwse Bron",
       "title": "Veluwse Bron in Emst, Gelderland: dagentree",
       "url": "https://tc.tradetracker.net/?c=4179&m=1185051&a=228134&r=&u=https%3A%2F%2Fwww.vakantieveilingen.nl%2Fveilingen%2Fsauna-en-beauty%2Fsauna-en-wellness%2Fveluwse-bron-2022%2F33409",
       "oldPrice": null,
@@ -102,6 +112,7 @@
     {
       "id": 10,
       "campaignID": 4179,
+      "wellnessName": "Thermen Holiday",
       "title": "Thermen Holiday in Schiedam, Zuid-Holland: entree",
       "url": "https://tc.tradetracker.net/?c=4179&m=1185051&a=228134&r=&u=https%3A%2F%2Fwww.vakantieveilingen.nl%2Fveilingen%2Fsauna-en-beauty%2Fsauna-en-wellness%2Fthermen-holiday-sauna%2F33871",
       "oldPrice": null,
@@ -112,6 +123,7 @@
     {
       "id": 11,
       "campaignID": 4179,
+      "wellnessName": "Elysium",
       "title": "Elysium in Bleiswijk, Zuid-Holland: dagentree",
       "url": "https://tc.tradetracker.net/?c=4179&m=1185051&a=228134&r=&u=https%3A%2F%2Fwww.vakantieveilingen.nl%2Fveilingen%2Fsauna-en-beauty%2Fsauna-en-wellness%2Fdagentree-sauna-wellnessresort-elysium%2F2229",
       "oldPrice": null,
@@ -122,6 +134,7 @@
     {
       "id": 12,
       "campaignID": 4179,
+      "wellnessName": "Wellnessboot Mill",
       "title": "Dagentree op BLUE Wellnessboot Mill, Brabant",
       "url": "https://tc.tradetracker.net/?c=4179&m=1185051&a=228134&r=&u=https%3A%2F%2Fwww.vakantieveilingen.nl%2Fveilingen%2Fsauna-en-beauty%2Fsauna-en-wellness%2Fblue-wellnessboot-mill-brabant%2F44391",
       "oldPrice": null,
@@ -132,6 +145,7 @@
     {
       "id": 13,
       "campaignID": 4179,
+      "wellnessName": "Wellness Helmond",
       "title": "Saunaentree bij BLUE Wellnessresort, Helmond",
       "url": "https://tc.tradetracker.net/?c=4179&m=1185051&a=228134&r=&u=https%3A%2F%2Fwww.vakantieveilingen.nl%2Fveilingen%2Fsauna-en-beauty%2Fsauna-en-wellness%2Fblue-wellnessresort-helmond%2F44394",
       "oldPrice": null,
@@ -142,6 +156,7 @@
     {
       "id": 14,
       "campaignID": 4179,
+      "wellnessName": "Wellness Sittard",
       "title": "Dagentree bij BLUE Wellnessresort Sittard",
       "url": "https://tc.tradetracker.net/?c=4179&m=1185051&a=228134&r=&u=https%3A%2F%2Fwww.vakantieveilingen.nl%2Fveilingen%2Fsauna-en-beauty%2Fsauna-en-wellness%2Fblue-wellnessresort-sittard%2F44393",
       "oldPrice": null,
@@ -152,6 +167,7 @@
     {
       "id": 15,
       "campaignID": 4179,
+      "wellnessName": "Thermen De Waterlelie",
       "title": "Wellnessresort de Waterlelie: dag- of avondentree",
       "url": "https://tc.tradetracker.net/?c=4179&m=1185051&a=228134&r=&u=https%3A%2F%2Fwww.vakantieveilingen.nl%2Fveilingen%2Fsauna-en-beauty%2Fsauna-en-wellness%2Fwellnessresort-waterlelie-dagentree-of-avondentree%2F43711",
       "oldPrice": null,
@@ -162,6 +178,7 @@
     {
       "id": 16,
       "campaignID": 4179,
+      "wellnessName": "Wellness Leiden",
       "title": "Dagentree bij BLUE Wellnessresort Leiden",
       "url": "https://tc.tradetracker.net/?c=4179&m=1185051&a=228134&r=&u=https%3A%2F%2Fwww.vakantieveilingen.nl%2Fveilingen%2Fsauna-en-beauty%2Fsauna-en-wellness%2Fblue-wellnessresort-leiden%2F44389",
       "oldPrice": null,
@@ -172,6 +189,7 @@
     {
       "id": 17,
       "campaignID": 8308,
+      "wellnessName": "Thermen Anholts",
       "title": "1 ticket voor Thermen & Wellness Anholts in Schoonebeek!",
       "url": "https://www.ticketveiling.nl/tickets/?tt=8308_1922718_228134_&r=https%3A%2F%2Fwww.ticketveiling.nl%2Fsauna%2Fsauna%2Fthermen-wellness-anholts-schoonebeek-korting-2",
       "oldPrice": null,
@@ -181,6 +199,7 @@
     {
       "id": 18,
       "campaignID": 8308,
+      "wellnessName": "Sauna Het Friese Woud",
       "title": "Een dagje ontspannen bij Sauna Het Friese Woud voor 2 personen!",
       "url": "https://www.ticketveiling.nl/tickets/?tt=8308_1922718_228134_&r=https%3A%2F%2Fwww.ticketveiling.nl%2Fsauna%2Fsauna%2Fsauna-het-friese-woud-2-personen-korting",
       "oldPrice": null,
@@ -190,6 +209,7 @@
     {
       "id": 19,
       "campaignID": 8308,
+      "wellnessName": "Dennenmarken",
       "title": "Een dagje ontspannen bij Sauna Dennenmarken in Limburg!",
       "url": "https://www.ticketveiling.nl/tickets/?tt=8308_1922718_228134_&r=https%3A%2F%2Fwww.ticketveiling.nl%2Fsauna%2Fsauna%2Fsauna-dennenmarken-limburg-korting",
       "oldPrice": null,
@@ -199,6 +219,7 @@
     {
       "id": 20,
       "campaignID": 8308,
+      "wellnessName": "Dennenmarken",
       "title": "Voor 2 personen een Wellness Hotelarrangement bij Sauna Dennenmarken!",
       "url": "https://www.ticketveiling.nl/tickets/?tt=8308_1922718_228134_&r=https%3A%2F%2Fwww.ticketveiling.nl%2Fhotels%2Fweekendjes-weg%2Fwellness-hotelarrangement-sauna-dennenmarken-korting",
       "oldPrice": null,
@@ -217,6 +238,7 @@
     {
       "id": 22,
       "campaignID": 8308,
+      "wellnessName": "Sauna Drome Putten",
       "title": "2 avond entreetickets voor Sauna Drôme in Putten!",
       "url": "https://www.ticketveiling.nl/tickets/?tt=8308_1922718_228134_&r=https%3A%2F%2Fwww.ticketveiling.nl%2Fsauna%2Fsauna%2Fsaunadrome-putten-avondentree",
       "oldPrice": null,
@@ -226,6 +248,7 @@
     {
       "id": 23,
       "campaignID": 8308,
+      "wellnessName": "Sauna Het Friese Woud",
       "title": "Voor 1 persoon een dagje ontspannen bij Sauna Het Friese Woud!",
       "url": "https://www.ticketveiling.nl/tickets/?tt=8308_1922718_228134_&r=https%3A%2F%2Fwww.ticketveiling.nl%2Fsauna%2Fsauna%2Fsauna-het-friese-woud-korting",
       "oldPrice": null,
@@ -235,6 +258,7 @@
     {
       "id": 24,
       "campaignID": 8308,
+      "wellnessName": "Thermen Anholts",
       "title": "2 tickets voor Thermen & Wellness Anholts in Schoonebeek!",
       "url": "https://www.ticketveiling.nl/tickets/?tt=8308_1922718_228134_&r=https%3A%2F%2Fwww.ticketveiling.nl%2Fsauna%2Fsauna%2Fthermen-wellness-anholts-schoonebeek-korting",
       "oldPrice": null,
@@ -244,6 +268,7 @@
     {
       "id": 25,
       "campaignID": 8308,
+      "wellnessName": "Sauna Drome Putten",
       "title": "2 dagtickets voor Sauna Drôme in Putten!",
       "url": "https://www.ticketveiling.nl/tickets/?tt=8308_1922718_228134_&r=https%3A%2F%2Fwww.ticketveiling.nl%2Fsauna%2Fsauna%2Fsaunadrome-putten-dagentree-korting",
       "oldPrice": null,
@@ -253,6 +278,7 @@
     {
       "id": 26,
       "campaignID": 8308,
+      "wellnessName": "Spasereen",
       "title": "Voor 2 personen ontspannen bij SpaSereen in Maastricht!",
       "url": "https://www.ticketveiling.nl/tickets/?tt=8308_1922718_228134_&r=https%3A%2F%2Fwww.ticketveiling.nl%2Fsauna%2Fsauna%2Fspasereen-maastricht-korting",
       "oldPrice": null,
@@ -262,6 +288,7 @@
     {
       "id": 27,
       "campaignID": 8308,
+      "wellnessName": "Sauna De Bron",
       "title": "Een heerlijk dagje ontspannen bij Sauna de Bron voor 2 personen!",
       "url": "https://www.ticketveiling.nl/tickets/?tt=8308_1922718_228134_&r=https%3A%2F%2Fwww.ticketveiling.nl%2Fsauna%2Fsauna%2Fsauna-de-bron-korting",
       "oldPrice": null,
@@ -271,6 +298,7 @@
     {
       "id": 28,
       "campaignID": 8308,
+      "wellnessName": "Dennenmarken",
       "title": "Voor 2 personen sauna entree en 1 uur padellen bij Sauna Dennenmarken!",
       "url": "https://www.ticketveiling.nl/tickets/?tt=8308_1922718_228134_&r=https%3A%2F%2Fwww.ticketveiling.nl%2Fsauna%2Fsauna-entree-padellen-sauna-dennenmarken-korting",
       "oldPrice": null,
@@ -280,6 +308,7 @@
     {
       "id": 29,
       "campaignID": 8308,
+      "wellnessName": "Centre Du Lac",
       "title": "2 tickets voor een heerlijke saunadag bij Centre du Lac!",
       "url": "https://www.ticketveiling.nl/tickets/?tt=8308_1922718_228134_&r=https%3A%2F%2Fwww.ticketveiling.nl%2Fsauna%2Fsauna%2Fcentre-du-lac-dagentree-korting",
       "oldPrice": null,
@@ -289,6 +318,7 @@
     {
       "id": 30,
       "campaignID": 8308,
+      "wellnessName": "Sauna Drome Putten",
       "title": "1 avond entreeticket voor Sauna Drôme in Putten!",
       "url": "https://www.ticketveiling.nl/tickets/?tt=8308_1922718_228134_&r=https%3A%2F%2Fwww.ticketveiling.nl%2Fsauna%2Fsauna%2Fsaunadrome-putten-avondentree-1persoon",
       "oldPrice": null,
@@ -307,6 +337,7 @@
     {
       "id": 32,
       "campaignID": 8308,
+      "wellnessName": "Centre Du Lac",
       "title": "Een heerlijk ontspannen saunadag bij Centre du Lac voor 1 persoon!",
       "url": "https://www.ticketveiling.nl/tickets/?tt=8308_1922718_228134_&r=https%3A%2F%2Fwww.ticketveiling.nl%2Fsauna%2Fsauna%2Fsauna-centredulac-korting",
       "oldPrice": null,
@@ -316,6 +347,7 @@
     {
       "id": 33,
       "campaignID": 8308,
+      "wellnessName": "Thermen De Waterlelie",
       "title": "2 tickets voor Wellnessresort de Waterlelie!",
       "url": "https://www.ticketveiling.nl/tickets/?tt=8308_1922718_228134_&r=https%3A%2F%2Fwww.ticketveiling.nl%2Fsauna%2Fsauna%2Fwellnessresort-de-waterlelie-korting",
       "oldPrice": null,
@@ -325,6 +357,7 @@
     {
       "id": 34,
       "campaignID": 26224,
+      "wellnessName": "Sauna De Bron",
       "title": "Entree Sauna de Bron",
       "url": "https://www.tripper.nl/trips/?tt=26224_1169772_228134_&r=https%3A%2F%2Fwww.tripper.nl%2Fdeal%2Fdagentree-sauna-de-bron-korting",
       "oldPrice": 31.95,
@@ -334,6 +367,7 @@
     {
       "id": 35,
       "campaignID": 26224,
+      "wellnessName": "Dennenmarken",
       "title": "Entreeticket Sauna Dennenmarken",
       "url": "https://www.tripper.nl/trips/?tt=26224_1169772_228134_&r=https%3A%2F%2Fwww.tripper.nl%2Fdeal%2Fentree-sauna-dennenmarken-korting",
       "oldPrice": 38.5,
@@ -343,6 +377,7 @@
     {
       "id": 36,
       "campaignID": 26224,
+      "wellnessName": "Spasereen",
       "title": "Entreeticket SpaSereen Maastricht",
       "url": "https://www.tripper.nl/trips/?tt=26224_1169772_228134_&r=https%3A%2F%2Fwww.tripper.nl%2Fdeal%2Fticket-spasereen-maastricht-korting",
       "oldPrice": 39.5,
@@ -352,6 +387,7 @@
     {
       "id": 37,
       "campaignID": 26224,
+      "wellnessName": "Sauna Drome Putten",
       "title": "Dag of avondentree Sauna Drôme in Putten",
       "url": "https://www.tripper.nl/trips/?tt=26224_1169772_228134_&r=https%3A%2F%2Fwww.tripper.nl%2Fdeal%2Ftickets-sauna-drome-putten-korting",
       "oldPrice": 35.5,
@@ -361,6 +397,7 @@
     {
       "id": 38,
       "campaignID": 26224,
+      "wellnessName": "Dennenmarken",
       "title": "Entree Sauna Dennenmarken + behandeling/drankje of maaltijdsalade",
       "url": "https://www.tripper.nl/trips/?tt=26224_1169772_228134_&r=https%3A%2F%2Fwww.tripper.nl%2Fdeal%2Fentree-sauna-dennenmarken-arrangementen-korting",
       "oldPrice": 63.5,
@@ -370,6 +407,7 @@
     {
       "id": 39,
       "campaignID": 26224,
+      "wellnessName": "Sauna Het Friese Woud",
       "title": "Dagentree Sauna Het Friese Woud",
       "url": "https://www.tripper.nl/trips/?tt=26224_1169772_228134_&r=https%3A%2F%2Fwww.tripper.nl%2Fdeal%2Fsauna-friese-woud-met-korting",
       "oldPrice": 29.5,
@@ -379,6 +417,7 @@
     {
       "id": 40,
       "campaignID": 26224,
+      "wellnessName": "Thermen Anholts",
       "title": "Entreeticket Thermen & Beautycentrum Anholts",
       "url": "https://www.tripper.nl/trips/?tt=26224_1169772_228134_&r=https%3A%2F%2Fwww.tripper.nl%2Fdeal%2Fticket-thermen-beautycentrum-anholts-korting",
       "oldPrice": 33,
@@ -388,6 +427,7 @@
     {
       "id": 41,
       "campaignID": 26224,
+      "wellnessName": "Thermen De Waterlelie",
       "title": "Dagentree Wellnessresort de Waterlelie",
       "url": "https://www.tripper.nl/trips/?tt=26224_1169772_228134_&r=https%3A%2F%2Fwww.tripper.nl%2Fdeal%2Fkorting-dagentree-wellnessresort-de-waterlelie-korting",
       "oldPrice": 39.5,
@@ -397,6 +437,7 @@
     {
       "id": 42,
       "campaignID": 26224,
+      "wellnessName": "Dennenmarken",
       "title": "Entree Sauna Dennenmarken + 1 uur Padel",
       "url": "https://www.tripper.nl/trips/?tt=26224_1169772_228134_&r=https%3A%2F%2Fwww.tripper.nl%2Fdeal%2Fentree-sauna-dennenmarken-1-uur-padel-korting",
       "oldPrice": 31.5,
@@ -406,6 +447,7 @@
     {
       "id": 43,
       "campaignID": 26224,
+      "wellnessName": "Centre Du Lac",
       "title": "Dagentree Centre du Lac",
       "url": "https://www.tripper.nl/trips/?tt=26224_1169772_228134_&r=https%3A%2F%2Fwww.tripper.nl%2Fdeal%2Ftickets-centre-du-lac-korting",
       "oldPrice": 38,
@@ -415,6 +457,7 @@
     {
       "id": 44,
       "campaignID": 26224,
+      "wellnessName": "Wellness Center De Bronsbergen",
       "title": "Dagentree Wellness Center de Bronsbergen",
       "url": "https://www.tripper.nl/trips/?tt=26224_1169772_228134_&r=https%3A%2F%2Fwww.tripper.nl%2Fdeal%2Fdagentree-wellness-center-de-bronsbergen-korting",
       "oldPrice": 37.5,
@@ -424,6 +467,7 @@
     {
       "id": 45,
       "campaignID": 26224,
+      "wellnessName": "Spavarin",
       "title": "Dagentree Cityspa Spavarin + arrangement",
       "url": "https://www.tripper.nl/trips/?tt=26224_1169772_228134_&r=https%3A%2F%2Fwww.tripper.nl%2Fdeal%2Fentree-dag-cityspa-spavarin-arrangement-korting",
       "oldPrice": 25,
@@ -433,6 +477,7 @@
     {
       "id": 46,
       "campaignID": 2301,
+      "wellnessName": "Wellness Helmond",
       "title": "Fletcher Wellness-Hotel Helmond",
       "url": "https://www.zoweg.nl/tradetracker/?tt=2301_750467_228134_&r=https%3A%2F%2Fwww.zoweg.nl%2Fhotels%2Fnl%2Fhotel-helmond%2Ffletcher-wellness-hotel-helmond%2F",
       "oldPrice": null,
@@ -453,6 +498,7 @@
     {
       "id": 48,
       "campaignID": 13048,
+      "wellnessName": "Spasense",
       "title": "Dagje wellness bij SpaSense",
       "url": "https://lt45.net/c/?si=13048&li=1685001&wi=244044&pid=ac5e409841b3dd4747da3ea2afb0f88f&dl=product%2Fwellness-spasense&ws=",
       "oldPrice": 39.5,
@@ -463,16 +509,7 @@
     {
       "id": 49,
       "campaignID": 13048,
-      "title": "Claude Monet Zijden sjaal'Waterlelies'",
-      "url": "https://lt45.net/c/?si=13048&li=1685001&wi=244044&pid=f2e83512a24c60c07effd4d31ab6e66c&dl=product%2Fclaude-monet-zijden-sjaal-waterlelies&ws=",
-      "oldPrice": 0,
-      "newPrice": 99,
-      "image": "https://media.graphassets.com/dvYfeJ9kQGSR6Ti3qt0b",
-      "location": ""
-    },
-    {
-      "id": 50,
-      "campaignID": 13048,
+      "wellnessName": "Spa Wellness Weesp",
       "title": "Dagje wellness bij SpaWeesp",
       "url": "https://lt45.net/c/?si=13048&li=1685001&wi=244044&pid=ef6cfc89366e77058d64fb75b90370df&dl=product%2Fwellness-spaweesp&ws=",
       "oldPrice": 38.5,
@@ -481,8 +518,9 @@
       "location": ""
     },
     {
-      "id": 51,
+      "id": 50,
       "campaignID": 13048,
+      "wellnessName": "Spapuur",
       "title": "Dagje wellness bij SpaPuur",
       "url": "https://lt45.net/c/?si=13048&li=1685001&wi=244044&pid=cd8e41802d9e35c7e2625a1a86ff9462&dl=product%2Fwellness-spapuur&ws=",
       "oldPrice": 34.5,
@@ -491,8 +529,9 @@
       "location": ""
     },
     {
-      "id": 52,
+      "id": 51,
       "campaignID": 13048,
+      "wellnessName": "Thermen Holiday",
       "title": "Dagje wellness bij Thermen Holiday",
       "url": "https://lt45.net/c/?si=13048&li=1685001&wi=244044&pid=26b1b66ec04afc699627507dba741b61&dl=product%2Fwellness-thermenholiday&ws=",
       "oldPrice": 38.52,
@@ -501,8 +540,9 @@
       "location": ""
     },
     {
-      "id": 53,
+      "id": 52,
       "campaignID": 13048,
+      "wellnessName": "Body Home",
       "title": "Goodbye Stress Home&Body Pakket",
       "url": "https://lt45.net/c/?si=13048&li=1685001&wi=244044&pid=99474f4fbb565b52a1fb07bf8940ee18&dl=product%2Fgoodbye-stress-home-body-pakket&ws=",
       "oldPrice": 49.95,
@@ -511,8 +551,9 @@
       "location": ""
     },
     {
-      "id": 54,
+      "id": 53,
       "campaignID": 13048,
+      "wellnessName": "De Zwaluwhoeve",
       "title": "Dagje wellness bij Zwaluwhoeve",
       "url": "https://lt45.net/c/?si=13048&li=1685001&wi=244044&pid=f59f147ef7c72fa6c7071281b35ff86c&dl=product%2Fzwaluwhoeve&ws=",
       "oldPrice": 38.5,
@@ -521,8 +562,9 @@
       "location": ""
     },
     {
-      "id": 55,
+      "id": 54,
       "campaignID": 13048,
+      "wellnessName": "Veluwse Bron",
       "title": "Dagje wellness bij Veluwse Bron",
       "url": "https://lt45.net/c/?si=13048&li=1685001&wi=244044&pid=d63c9950dbe555a7a293dd1f7af127af&dl=product%2Fwellness-veluwsebron&ws=",
       "oldPrice": 42.5,
@@ -531,7 +573,7 @@
       "location": ""
     },
     {
-      "id": 56,
+      "id": 55,
       "campaignID": 13048,
       "title": "Jugendstil-paddenstoellamp'Berlin'",
       "url": "https://lt45.net/c/?si=13048&li=1685001&wi=244044&pid=c5c46550494775f33a0620d7d9fb06c0&dl=product%2Fjugendstil-paddenstoellamp-berlin&ws=",
@@ -541,8 +583,9 @@
       "location": ""
     },
     {
-      "id": 57,
+      "id": 56,
       "campaignID": 13048,
+      "wellnessName": "Elysium",
       "title": "Dagje wellness bij Elysium",
       "url": "https://lt45.net/c/?si=13048&li=1685001&wi=244044&pid=eefd0c9287030f39f487bbe445fe6fe3&dl=product%2Fdagje-wellness-elysium&ws=",
       "oldPrice": 42.5,
@@ -551,8 +594,9 @@
       "location": ""
     },
     {
-      "id": 58,
+      "id": 57,
       "campaignID": 686,
+      "wellnessName": "Sanadome",
       "title": "Sanadome Hotel & Spa",
       "url": "https://www.hotelspecials.nl/hotel/?tt=686_344304_228134_&r=https%3A%2F%2Fwww.hotelspecials.nl%2Fh%2F19144.html%3Futm_source%3Dtradetracker",
       "oldPrice": null,
@@ -561,8 +605,9 @@
       "location": ["Nijmegen"]
     },
     {
-      "id": 59,
+      "id": 58,
       "campaignID": 686,
+      "wellnessName": "Spa Wellness Chateau St Gerlach",
       "title": "Chateau St. Gerlach",
       "url": "https://www.hotelspecials.nl/hotel/?tt=686_344304_228134_&r=https%3A%2F%2Fwww.hotelspecials.nl%2Fh%2F334.html%3Futm_source%3Dtradetracker",
       "oldPrice": null,
@@ -571,8 +616,9 @@
       "location": ["Valkenburg"]
     },
     {
-      "id": 60,
+      "id": 59,
       "campaignID": 686,
+      "wellnessName": "Bad Boekelo",
       "title": "Resort Bad Boekelo",
       "url": "https://www.hotelspecials.nl/hotel/?tt=686_344304_228134_&r=https%3A%2F%2Fwww.hotelspecials.nl%2Fh%2F188.html%3Futm_source%3Dtradetracker",
       "oldPrice": null,
@@ -581,8 +627,9 @@
       "location": ["Boekelo"]
     },
     {
-      "id": 61,
+      "id": 60,
       "campaignID": 686,
+      "wellnessName": "Landgoed De Rosep",
       "title": "Landgoed de Rosep",
       "url": "https://www.hotelspecials.nl/hotel/?tt=686_344304_228134_&r=https%3A%2F%2Fwww.hotelspecials.nl%2Fh%2F399.html%3Futm_source%3Dtradetracker",
       "oldPrice": null,
@@ -591,8 +638,9 @@
       "location": ["Oisterwijk"]
     },
     {
-      "id": 62,
+      "id": 61,
       "campaignID": 686,
+      "wellnessName": "Thermen Bussloo",
       "title": "Wellness & Hotel Thermen Bussloo",
       "url": "https://www.hotelspecials.nl/hotel/?tt=686_344304_228134_&r=https%3A%2F%2Fwww.hotelspecials.nl%2Fh%2F7697.html%3Futm_source%3Dtradetracker",
       "oldPrice": null,
@@ -601,8 +649,9 @@
       "location": ["Bussloo"]
     },
     {
-      "id": 63,
+      "id": 62,
       "campaignID": 686,
+      "wellnessName": "Zuiver Amsterdam",
       "title": "Hotel & Wellness Zuiver",
       "url": "https://www.hotelspecials.nl/hotel/?tt=686_344304_228134_&r=https%3A%2F%2Fwww.hotelspecials.nl%2Fh%2F6564.html%3Futm_source%3Dtradetracker",
       "oldPrice": null,

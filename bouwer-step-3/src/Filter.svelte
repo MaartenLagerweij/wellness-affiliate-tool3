@@ -42,14 +42,33 @@
         });
     }
 
+    //Make the new numPromotionsForFilter that before came from createPromotionsData.js:
+    const numPromotionsForFilter = {
+        'all': mappedPromotions.length,
+        'SpaOnline.com': 0,
+        'VakantieVeilingen': 0,
+        'ActievandeDag': 0,
+        'TicketVeiling': 0,
+        'Tripper': 0,
+        'HotelSpecials': 0,
+        'ZoWeg': 0,
+        'AD Webwinkel': 0,
+        'Voordeeluitjes.nl': 0,
+    }
+    mappedPromotions.forEach(promotion => {
+        //console.log(campaigns[promotion.campaignID].name)
+        numPromotionsForFilter[campaigns[promotion.campaignID].name] += 1
+    })
+    console.log(numPromotionsForFilter);
+
 </script>
 <div class="filter">
     <label>
         <b>Selecteer een campagne:</b>
         <select class="form-select" bind:value={selectedCampaignID}>
-            <option value="all">Alle </option>
+            <option value="all">Alle ({numPromotionsForFilter.all})</option>
             {#each campaignsArray as [campaignID, {name}]}
-                <option value={campaignID}>{name} </option>
+                <option value={campaignID}>{name} ({numPromotionsForFilter[name]})</option>
             {/each}
         </select>
     </label>
