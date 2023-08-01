@@ -114,7 +114,7 @@ module.exports = {
   "Thermen Nijmegen": { ID: 113, regex: /^(?=.*thermen)(?=.*nijmegen).*$/gi , numPromotions: 0},
   "Sauna Houten": { ID: 114, regex: /^(?=.*sauna)(?=.*houten).*$/gi , numPromotions: 0},
   "Thermae Son": { ID: 115, regex: /^(?=.*thermae)(?=.*son).*$/gi , numPromotions: 0},
-  "Thermen De Waterlelie": { ID: 116, regex: /waterlelie/gi , numPromotions: 0},
+  "Thermen De Waterlelie": { ID: 116, regex: /waterlelie(?!s)/gi , numPromotions: 0},
   "Sauna De Veluwe": { ID: 117, regex: /saunadeveluwe/gi , numPromotions: 0},
   "Sauna Beautyfarm Midwolda": { ID: 118, regex: /midwolda/gi , numPromotions: 0},
   "Sauna Drome Putten": { ID: 119, regex: /^(?=.*dr[oô]me)(?=.*putten).*$/gi , numPromotions: 0},

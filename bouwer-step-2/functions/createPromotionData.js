@@ -27,7 +27,7 @@ hotelspecialsTradetrackerJSON.products.forEach(promotion => promotions.push(prom
 const filteredPromotions = promotions.filter(promotion => {
     let title = promotion.name || promotion.product_info.title
     title = title.replace(/[\s,-:]/g,"");
-    return Object.entries(wellnessListIDs).some(([, wellnessObject]) => {
+    return Object.entries(wellnessListIDs).some(([wellnessName, wellnessObject]) => {
         return wellnessObject.regex.test(title)
     })
 })
@@ -60,10 +60,14 @@ const mappedPromotions = filteredPromotions.map((promotion,index) => {
         promotion.oldPrice = null;
         promotion.image = promotion.images[0]
     }
-    //Only return the correct data for each promotion I need
+    //Set the wellnessName for each wellness:
+    Object.entries(wellnessListIDs).forEach(([wellnessName, wellnessObject]) => {
+        if(wellnessObject.regex.test(promotion.name)) promotion.wellnessName = wellnessName;
+    })
     return {
         id: index,
         campaignID: promotion.campaignID,
+        wellnessName: promotion.wellnessName,
         title: promotion.name,
         url: promotion.URL,
         oldPrice: promotion.oldPrice,
@@ -80,17 +84,3 @@ fs.writeFile('./data/output.json', JSON.stringify(mappedPromotions), (err) => {
         console.log('wrote data to ./data/output.json');
     }
 })
-
-
-// //Create object with number of products for each campagne, which can be used in the filter
-// const numPromotionsForFilter = {
-//     'all': promotions.length,
-//     'SpaOnline.com': spaOnlineDaisyconJSON.datafeed.programs[0].products.length,
-//     'VakantieVeilingen': vakantieVeilingenTradeTrackerJSON.products.length,
-//     'ActievandeDag': actievandedagTradetrackerJSON.products.length,
-//     'TicketVeiling': ticketveilingTradetrackerJSON.products.length,
-//     'Tripper': tripperTradetrackerJSON.products.length,
-//     // 'ZoWeg': zowegTradetrackerJSON.products.length,
-//     // 'ADWebwinkel': ADWebwinkelDaisyconJSON.datafeed.programs[0].products.length,
-//     'HotelSpecials': hotelspecialsTradetrackerJSON.products.length,
-// }
