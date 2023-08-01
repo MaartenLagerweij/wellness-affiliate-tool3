@@ -134,6 +134,8 @@ module.exports = {
   "De Thermen": { ID: 133, regex: /dethermen/gi , numPromotions: 0},
   "Centre Du Lac": { ID: 134, regex: /^(?=.*centre)(?=.*du)(?=.*lac).*$/gi , numPromotions: 0},
   "Sauna Beauty Oase Senang": { ID: 135, regex: /^(?=.*senang)(?=.*sauna)(?=.*oase).*$/gi , numPromotions: 0},
-  "Sauna De Ijzeren Man": { ID: 136, regex: /^(?=.*sauna)(?=.*ijzeren)(?=.*man).*$/gi , numPromotions: 0},
-  "De Zwaluwhoeve": { ID: 137, regex: /zwaluwhoeve/i , numPromotions: 0},
+  "Top Alivio": { ID: 136, regex: /^(?=.*top)(?=.*alivio).*$/i , numPromotions: 0},
+  "Sauna Suomi": { ID: 137, regex: /^(?=.*sauna)(?=.*suomi).*$/i , numPromotions: 0},
+  "Sauna Nijverdal": { ID: 138, regex: /^(?=.*sauna)(?=.*nijverdal).*$/i , numPromotions: 0},
+  "Spabron Hesselerbrug": { ID: 139, regex: /hesselerbrug/i , numPromotions: 0},
 }
