@@ -30,7 +30,7 @@
     }
     .price-info .new {
         color: #06a306;
-        font-size: 1.15rem;
+        font-size: 1.05rem;
         font-weight: 600;
         background-color: #cfeccf;
         padding: 3px 10px;
@@ -48,8 +48,7 @@
         align-items: center;
     }
     .price-info .discount {
-        font-size: 1.1rem;
-        font-weight: 500;
+        font-weight: 600;
         background-color: #cfeccf;
         padding: 3px 7px;
         border-radius: 5%;

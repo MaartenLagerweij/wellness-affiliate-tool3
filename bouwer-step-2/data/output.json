@@ -90,7 +90,7 @@
   {
     "id": 8,
     "campaignID": 4179,
-    "wellnessName": "De Zwaluwhoeve",
+    "wellnessName": "Zwaluwhoeve",
     "title": "Zwaluwhoeve in Hierden, Gelderland: dagentree",
     "url": "https://tc.tradetracker.net/?c=4179&m=1185051&a=228134&r=&u=https%3A%2F%2Fwww.vakantieveilingen.nl%2Fveilingen%2Fsauna-en-beauty%2Fsauna-en-wellness%2Fzwaluwhoeve-sauna%2F32874",
     "oldPrice": null,
@@ -553,7 +553,7 @@
   {
     "id": 53,
     "campaignID": 13048,
-    "wellnessName": "De Zwaluwhoeve",
+    "wellnessName": "Zwaluwhoeve",
     "title": "Dagje wellness bij Zwaluwhoeve",
     "url": "https://lt45.net/c/?si=13048&li=1685001&wi=244044&pid=f59f147ef7c72fa6c7071281b35ff86c&dl=product%2Fzwaluwhoeve&ws=",
     "oldPrice": 38.5,
@@ -658,5 +658,16 @@
     "newPrice": 180,
     "image": "https://media.bookerzzz.com/72bbf516972e152d2e939eda14d4ce76.jpeg",
     "location": ["Amsterdam"]
+  },
+  {
+    "id": 63,
+    "campaignID": 686,
+    "wellnessName": "Spavarin",
+    "title": "Restaurant, Hotel & Spa Savarin",
+    "url": "https://www.hotelspecials.nl/hotel/?tt=686_344304_228134_&r=https%3A%2F%2Fwww.hotelspecials.nl%2Fh%2F6126.html%3Futm_source%3Dtradetracker",
+    "oldPrice": null,
+    "newPrice": 159,
+    "image": "https://media.bookerzzz.com/32afea84d2375cc8e05668e5e28d2938.jpeg",
+    "location": ["Rijswijk"]
   }
 ]

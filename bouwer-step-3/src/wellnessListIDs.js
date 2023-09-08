@@ -77,7 +77,7 @@ export const wellnessListIDs = {
   "Sauna Soesterberg": { ID: 76, regex: /^(?=.*sauna)(?=.*soesterberg).*$/gi , numPromotions: 0},
   "Sauna Het Friese Woud": { ID: 77, regex: /^(?=.*friese)(?=.*woud).*$/gi , numPromotions: 0},
   "Elysium": { ID: 78, regex: /elysium/gi , numPromotions: 0},
-  "Spavarin": { ID: 79, regex: /spavarin/gi , numPromotions: 0},
+  "Spavarin": { ID: 79, regex: /(?=.*spavarin).*|(?=.*spa)(?=.*savarin).*$/gi , numPromotions: 0},
   "Spa Gouda": { ID: 80, regex: /^(?=.*spa)(?=.*gouda).*$/gi , numPromotions: 0},
   "Wellness 1926": { ID: 81, regex: /^(?=.*wellness)(?=.*1926).*$/gi , numPromotions: 0},
   "Sauna Aestas": { ID: 82, regex: /aestas/gi , numPromotions: 0},

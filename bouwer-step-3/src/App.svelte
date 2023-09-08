@@ -9,6 +9,10 @@
 	import Card from './Card.svelte';
 	import Card2 from './Card2.svelte';
 
+	//Get the <div> of the svelte-app on the active page in order to then get the correct WellnessID to then connect the right promotion to
+	let svelteAppElement = document.getElementById('svelte-app');
+    let currentWellness = svelteAppElement.dataset.wellnessid
+
 	mappedPromotions.sort((a,b) => a.title.localeCompare(b.title))
 	
 	let selectedCampaignID;
@@ -33,22 +37,21 @@
 
 <main>
 	<div class="container">
-		<h1>Find here the list of all the promotions!</h1>
-		<Filter on:filter={handleFilter} />
-		<h3>Underneath an overview of the Card1 template:</h3>
+		<!-- <h2>Bekijk de verschillende sauna aanbiedingen hieronder:</h2> -->
+		<!-- <Filter on:filter={handleFilter} /> -->
 			{#each promotions as promotion (promotion.id)}
-				<Card {promotion}/>
+				<Card {promotion} {currentWellness}/>
 			{/each}
 
-		<h3>Underneath an overview of the Card2 template:</h3>
+		<!-- <h3>Underneath an overview of the Card2 template:</h3>
 
 			<div class="row">
 				{#each promotions as promotion (promotion.id)}
 					<div class="col-md-4">
-						<Card2 {promotion}/>
+						<Card2 {promotion} />
 					</div>
 				{/each}
-			</div>
+			</div> -->
 	</div>
 </main>
 
@@ -59,12 +62,12 @@
 		margin: 0 auto;
 	}
 
-	h1 {
+	/* h1 {
 		color: #ff3e00;
 		text-transform: uppercase;
 		font-size: 2em;
 		font-weight: 100;
-	}
+	} */
 
 	@media (min-width: 640px) {
 		main {
@@ -73,7 +76,10 @@
 	}
 	.container {
 		max-width: 750px;
+		padding-right: 0px;
+		padding-left: 0px;
 	}
+	/*
 	.col-md-4 {
 		padding: 6px;
 	}
@@ -82,7 +88,7 @@
 	}
 	.col-md-4:last-child {
 		padding-right: 0px;
-	}
+	} */
 	@media only screen and (max-width: 640px) {
 		/* Somehow couldn't overwrite the other style where the max with stays on 240px with a smaller screen for main */
         main {

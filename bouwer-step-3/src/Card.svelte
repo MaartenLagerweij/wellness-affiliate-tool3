@@ -3,7 +3,11 @@
     import PriceComponent from './priceComponent.svelte';
 
     export let promotion;
-    let {url, campaignID, title, location, oldPrice, newPrice, show} = promotion;
+    export let currentWellness;
+
+    let {url, campaignID, title, location, oldPrice, newPrice, wellnessName} = promotion;
+
+    let show = currentWellness === wellnessName ? true : false;
     let discount;
 
     function numToEuroString(num){
@@ -11,7 +15,7 @@
     }
 
     if ((campaignID == 4179 || campaignID == 8308) && (newPrice == 1 || newPrice == 0)) newPrice = "v.a. €1,-"
-    if(campaignID == 11136 || campaignID == 10456 || campaignID == 26224 || campaignID == 13048 || campaignID == 686) {
+    if(campaignID == 11136 || campaignID == 10456 || campaignID == 26224 || campaignID == 13048 || campaignID == 686 || campaignID == 2301) {
         if(oldPrice && newPrice){
             discount = Math.round((newPrice-oldPrice)/oldPrice*100)*-1
             discount = discount+'% korting!';
@@ -127,6 +131,7 @@
     /* On Wellnesscentrumnederland.nl the styles for h5 would otherwise get a lot of margin */
     .promotion h5 {
         margin: 6px 0 4px;
+        font-size: 15px;
     }
     .cta {
         display: flex;
