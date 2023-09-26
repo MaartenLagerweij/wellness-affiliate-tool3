@@ -72,6 +72,7 @@ const mappedPromotions = filteredPromotions.map((promotion,index) => {
         url: promotion.URL,
         oldPrice: promotion.oldPrice,
         newPrice: promotion.price.amount,
+        discount: promotion.oldPrice && promotion.price.amount ? Math.round((promotion.price.amount - promotion.oldPrice) / promotion.oldPrice * 100) * -1 : null,
         image: promotion.image,
         location: promotion.properties.city,
     }
