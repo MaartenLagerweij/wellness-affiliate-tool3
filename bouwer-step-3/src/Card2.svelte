@@ -1,8 +1,11 @@
 <script>
-    
+
+    import PriceComponent from './priceComponent.svelte';
     import { campaigns } from "./campaigns";
     export let promotion;
-    let {image, title, location, url, campaignID} = promotion;
+
+    let {url, image, campaignID, title, oldPrice, newPrice, discount} = promotion;
+
 
     let logoCampaignURL = campaigns[campaignID].image;
     if(/\|/.test(location))location = location.replace(/\|.*/,"");
@@ -15,7 +18,12 @@
         <img loading="lazy" class="promotion-img-top" src={image} alt={`Bekijk de promotie ${title}`} />
     </div>
     <div class="promotion-body" style="background-image: url({logoCampaignURL});">
-        <h5 class="promotion-title">{title}</h5>
+        <div class="content-wrapper">
+            <h5 class="promotion-title">{title}</h5>
+    
+            <PriceComponent {campaignID} {oldPrice} {newPrice} {discount}  />
+
+        </div>
         <!-- {#if location && (typeof location !== 'object' || (Array.isArray(location) && location.length > 0))}
             <p class="promotion-location"><i class="fas fa-map-marker"></i>  {location}</p>
         {/if} -->
@@ -32,7 +40,7 @@
 
 <style>
     .promotion {
-        min-height: 415px;
+        min-height: 460px;
         margin-bottom: 12px;
         --bs-card-spacer-y: 1rem;
         --bs-card-spacer-x: 1rem;
@@ -71,7 +79,6 @@
     .promotion-body {
         background-repeat: no-repeat;
         background-position: left bottom;
-        filter: grayscale(100%);
         background-size: auto 40px;
         flex: 1 1 auto;
         padding: var(--bs-card-spacer-y) var(--bs-card-spacer-x);
@@ -81,8 +88,8 @@
         justify-content: space-between;
         padding: 10px 5px 35px 5px;
     }
-    .promotion-location {
-        text-align: center;
+    .content-wrapper {
+        filter: grayscale(0%);
     }
     .img-wrapper {
         height: 150px;

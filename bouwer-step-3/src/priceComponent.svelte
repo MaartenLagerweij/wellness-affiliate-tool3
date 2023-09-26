@@ -1,7 +1,24 @@
 <script>
+    export let campaignID;
     export let oldPrice;
     export let newPrice;
     export let discount;
+
+    function numToEuroString(num) {
+        return /\./.test(num.toString()) ? "€" + num.toFixed(2).replace(".", ",") : "€" + num + ",-"
+    }
+
+    if ((campaignID == 4179 || campaignID == 8308) && (newPrice == 1 || newPrice == 0)) {
+        newPrice = "v.a. €1,-"   
+    } else if (campaignID == 11136 || campaignID == 10456 || campaignID == 26224 || campaignID == 13048 || campaignID == 686 || campaignID == 2301) {
+        if (oldPrice && newPrice) {
+            discount = discount + '% korting!';
+            oldPrice = numToEuroString(oldPrice);
+            newPrice = numToEuroString(newPrice);
+        } else if (!oldPrice && newPrice) {
+            newPrice = numToEuroString(newPrice);
+        }
+    }
 </script>
 
 <div class="price-info">

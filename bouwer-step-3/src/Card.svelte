@@ -5,26 +5,10 @@
     export let promotion;
     export let currentWellness;
 
-    let {url, campaignID, title, location, oldPrice, newPrice, wellnessName} = promotion;
+    let {url, campaignID, title, location, oldPrice, newPrice, wellnessName, discount} = promotion;
 
     let show = currentWellness === wellnessName ? true : false;
-    let discount;
-
-    function numToEuroString(num){
-        return /\./.test(num.toString()) ? "€"+num.toFixed(2).replace(".",",") : "€"+num+",-"
-    }
-
-    if ((campaignID == 4179 || campaignID == 8308) && (newPrice == 1 || newPrice == 0)) newPrice = "v.a. €1,-"
-    if(campaignID == 11136 || campaignID == 10456 || campaignID == 26224 || campaignID == 13048 || campaignID == 686 || campaignID == 2301) {
-        if(oldPrice && newPrice){
-            discount = Math.round((newPrice-oldPrice)/oldPrice*100)*-1
-            discount = discount+'% korting!';
-            oldPrice = numToEuroString(oldPrice);
-            newPrice = numToEuroString(newPrice);
-        } else if(!oldPrice&&newPrice){
-            newPrice = numToEuroString(newPrice);
-        }
-    };
+    
     if(/\|/.test(location))location = location.replace(/\|.*/,"");
 
     //style="display: {show ? "block" : "none"}"
