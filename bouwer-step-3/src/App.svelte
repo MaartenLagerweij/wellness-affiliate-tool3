@@ -37,21 +37,22 @@
 
 <main>
 	<div class="container">
-		<!-- <h2>Bekijk de verschillende sauna aanbiedingen hieronder:</h2> -->
-		<!-- <Filter on:filter={handleFilter} /> -->
+		<!-- <h2>Bekijk de verschillende sauna aanbiedingen hieronder:</h2> 
+		<Filter on:filter={handleFilter} />
 			{#each promotions as promotion (promotion.id)}
 				<Card {promotion} {currentWellness}/>
-			{/each}
+			{/each}-->
 
-		<!-- <h3>Underneath an overview of the Card2 template:</h3>
+		<!-- <h3>Underneath an overview of the Card2 template:</h3>-->
 
+		<Filter on:filter={handleFilter} />
 			<div class="row">
 				{#each promotions as promotion (promotion.id)}
 					<div class="col-md-4">
 						<Card2 {promotion} />
 					</div>
 				{/each}
-			</div> -->
+			</div> 
 	</div>
 </main>
 

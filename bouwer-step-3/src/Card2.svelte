@@ -6,6 +6,8 @@
 
     let logoCampaignURL = campaigns[campaignID].image;
     if(/\|/.test(location))location = location.replace(/\|.*/,"");
+
+    if(title.length > 50) title = title.substring(0,50) + "...";
 </script>
 
 <div class="promotion">
@@ -14,9 +16,9 @@
     </div>
     <div class="promotion-body" style="background-image: url({logoCampaignURL});">
         <h5 class="promotion-title">{title}</h5>
-        {#if location && (typeof location !== 'object' || (Array.isArray(location) && location.length > 0))}
+        <!-- {#if location && (typeof location !== 'object' || (Array.isArray(location) && location.length > 0))}
             <p class="promotion-location"><i class="fas fa-map-marker"></i>  {location}</p>
-        {/if}
+        {/if} -->
     </div>
     <div class="promotion-footer">
         <a href={url} target="_blank">
