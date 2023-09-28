@@ -78,10 +78,10 @@ const mappedPromotions = filteredPromotions.map((promotion,index) => {
     }
 })
 
-fs.writeFile('./data/output.json', JSON.stringify(mappedPromotions), (err) => {
+fs.writeFile('./data/promotions.json', JSON.stringify(mappedPromotions), (err) => {
     if(err) {
         console.log(err);
     } else {
-        console.log('wrote data to ./data/output.json');
+        console.log('wrote data to ./data/promotions.json');
     }
 })

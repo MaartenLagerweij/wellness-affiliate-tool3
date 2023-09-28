@@ -159,10 +159,4 @@
         flex-direction: column;
         align-items: center;
     }
-    .fa-map-marker:before {
-        content: "\f041";
-        font: normal normal normal 14px/1 FontAwesome;
-        font-size: 22px;
-        color: #595959;
-    }
 </style>
