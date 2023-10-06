@@ -1,582 +1,141 @@
 module.exports = {
-  "Het Nolderwoud": {
-    "ID": 1,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Salon Francy": {
-    "ID": 2,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Fort Resort Beemster": {
-    "ID": 3,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Zonnestudio Sunshine Groningen": {
-    "ID": 4,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Plaza Sportiva Wellness": {
-    "ID": 5,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Sauna Keizer": {
-    "ID": 6,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Thermae Grimbergen": {
-    "ID": 7,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Thermae Boetfort": {
-    "ID": 8,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Sauna De Bron": {
-    "ID": 9,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Sauna Peize": {
-    "ID": 10,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Sauna Heuvelrug": {
-    "ID": 11,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Sauna Amstelland": {
-    "ID": 12,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Sauna Epe": {
-    "ID": 13,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Sauna Devarana": {
-    "ID": 14,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Spa Wellness Hof Van Saksen": {
-    "ID": 15,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Sauna Thermen Zuidwolde": {
-    "ID": 16,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Sauna Papendrecht": {
-    "ID": 17,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Mist City Spa": {
-    "ID": 18,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Descansa": {
-    "ID": 19,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Dennenmarken": {
-    "ID": 20,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Fontana Nieuweschans": {
-    "ID": 21,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Aphrodites Thermen": {
-    "ID": 22,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Ons Buiten Oostkapelle": {
-    "ID": 23,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Wellness Leiden": {
-    "ID": 24,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Sauna Warmond": {
-    "ID": 25,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Sauna Deco": {
-    "ID": 26,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Sauna Van Egmond Haarlem": {
-    "ID": 27,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Sauna Den Ilp": {
-    "ID": 28,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Sauna Het Kuurhuys": {
-    "ID": 29,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Sauna Ridderrode": {
-    "ID": 30,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "De Sauna Van Diemen": {
-    "ID": 31,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Spa Wellness Chateau St Gerlach": {
-    "ID": 32,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Vita Allegra": {
-    "ID": 33,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Wellnesscentrum Hamam Asselt": {
-    "ID": 34,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Sauna De Wilder Zwembad De Wilder": {
-    "ID": 35,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Sauna Bodycare": {
-    "ID": 36,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Wilmersberg": {
-    "ID": 37,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Spa Wellness Sneek": {
-    "ID": 38,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Sauna Terschelling": {
-    "ID": 39,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Sauna Loppersum": {
-    "ID": 40,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Hotel Aan De Wymerts": {
-    "ID": 41,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Tjaarda Oranjewoud": {
-    "ID": 42,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Sauna La Femme": {
-    "ID": 43,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Wellness Lucia": {
-    "ID": 44,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Sauna Aquarius": {
-    "ID": 45,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Sauna Helios": {
-    "ID": 46,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Beauty Center De Terp": {
-    "ID": 47,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Sauna Bad Hesselingen Meppel": {
-    "ID": 48,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Sauna Oosterhout": {
-    "ID": 49,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Landgoed De Rosep": {
-    "ID": 50,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Sauna Gieterveen": {
-    "ID": 51,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Abdij De Westerburcht": {
-    "ID": 52,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Bron Apart": {
-    "ID": 53,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Spameland": {
-    "ID": 54,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Sauna Franeker": {
-    "ID": 55,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Aquavia": {
-    "ID": 56,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Thermen En Beauty Zeeland": {
-    "ID": 57,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Veluwse Bron": {
-    "ID": 58,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Sauna De Bongerd": {
-    "ID": 59,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Thermaalbad Arcen": {
-    "ID": 60,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Thermen Bussloo": {
-    "ID": 61,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Thermen Holiday": {
-    "ID": 62,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Sauna Soesterberg": {
-    "ID": 63,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Sauna Het Friese Woud": {
-    "ID": 64,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Elysium": {
-    "ID": 65,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Spavarin": {
-    "ID": 66,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Spa Gouda": {
-    "ID": 67,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Sauna Aestas": {
-    "ID": 68,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Sanadome": {
-    "ID": 69,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Parkhotel Horst": {
-    "ID": 70,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Wellness Sittard": {
-    "ID": 71,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Bad Boekelo": {
-    "ID": 72,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Wellness Center De Bronsbergen": {
-    "ID": 73,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Easyfeeling": {
-    "ID": 74,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Welcome Wellness Westcord": {
-    "ID": 75,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Westcord Wtc Hotel Leeuwarden": {
-    "ID": 76,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Hunzebergen": {
-    "ID": 77,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Wellness Helmond": {
-    "ID": 78,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Amadore Kamperduinen": {
-    "ID": 79,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Betuwsch Badhuys": {
-    "ID": 80,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Wellness Goes": {
-    "ID": 81,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Het Raedthuys": {
-    "ID": 82,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Zwaluwhoeve": {
-    "ID": 83,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Zuiver Amsterdam": {
-    "ID": 84,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Caesar Den Haag": {
-    "ID": 85,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Wellnessboot Mill": {
-    "ID": 86,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Spasense": {
-    "ID": 87,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "De Woudfennen": {
-    "ID": 88,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Thermae 2000": {
-    "ID": 89,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Spapuur": {
-    "ID": 90,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Spasereen": {
-    "ID": 91,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Wellness Trivium": {
-    "ID": 92,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Thermen Goirle": {
-    "ID": 93,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Dunya Hamam Eindhoven": {
-    "ID": 94,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Thermen La Mer": {
-    "ID": 95,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Thermen Anholts": {
-    "ID": 96,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Thermae Son": {
-    "ID": 97,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Thermen De Waterlelie": {
-    "ID": 98,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Sauna De Veluwe": {
-    "ID": 99,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Sauna Beautyfarm Midwolda": {
-    "ID": 100,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Sauna Drome Putten": {
-    "ID": 101,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Spa Wellness Weesp": {
-    "ID": 102,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Sauna Velp": {
-    "ID": 103,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Beautycentrum De Parel": {
-    "ID": 104,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Sauna Leeuwerikhoeve": {
-    "ID": 105,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Sauna De Leliehof": {
-    "ID": 106,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Sauna Swoll": {
-    "ID": 107,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Sauna Hoen": {
-    "ID": 108,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Sauna En Beauty Ommen": {
-    "ID": 109,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Sare Thermen Beauty": {
-    "ID": 110,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Palestra": {
-    "ID": 111,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Orange Wellness Centre": {
-    "ID": 112,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Fonteyn Thermen": {
-    "ID": 113,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Centre Du Lac": {
-    "ID": 114,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Top Alivio": {
-    "ID": 115,
-    "regex": {},
-    "numPromotions": 0
-  },
-  "Spabron Hesselerbrug": {
-    "ID": 116,
-    "regex": {},
-    "numPromotions": 0
-  }
-};
+  "Wellnesshoeve Butterfly" : { ID: 1, regex:  /^(?=.*wellnesshoeve)(?=.*butterfly).*$/ig, numPromotions: 0},
+  "Het Nolderwoud" : { ID: 2, regex: /nolderwoud/gi , numPromotions: 0},
+  "Thermen Lucaya" : { ID: 3, regex: /lucaya/gi , numPromotions: 0},
+  "Salon Francy" : { ID: 4, regex: /francy/gi , numPromotions: 0},
+  "Fort Resort Beemster" : { ID: 5, regex: /^(?=.*fort)(?=.*beemster).*$/ig , numPromotions: 0},
+  "Zonnestudio Sunshine Groningen" : { ID: 6, regex: /^(?=.*sunshine)(?=.*groningen).*$/ig , numPromotions: 0},
+  "Plaza Sportiva Wellness" : { ID: 7, regex: /^(?=.*sportiva)(?=.*wellness).*$/ig , numPromotions: 0},
+  "Sauna Keizer" : { ID: 8, regex: /^(?=.*sauna)(?=.*keizer).*$/ig , numPromotions: 0},
+  "Thermae Grimbergen" : { ID: 9, regex: /^(?=.*thermae)(?=.*grimbergen).*$/ig , numPromotions: 0},
+  "Thermae Boetfort" : { ID: 10, regex: /^(?=.*boetfort)(?=.*thermae).*$/ig , numPromotions: 0},
+  "Sauna De Bron" : { ID: 11, regex: /^(?=.*sauna)(?=.*bron).*$/ig , numPromotions: 0},
+  "Sauna Vilt" : { ID: 12, regex: /^(?=.*sauna)(?=.*vilt).*$/ig , numPromotions: 0},
+  "Sauna Peize" : { ID: 13, regex: /^(?=.*sauna)(?=.*peize).*$/ig , numPromotions: 0},
+  "Sauna Heuvelrug" : { ID: 14, regex: /^(?=.*sauna)(?=.*heuvelrug).*$/ig , numPromotions: 0},
+  "Sauna Amstelland" : { ID: 15, regex: /^(?=.*sauna)(?=.*amstelland).*$/ig , numPromotions: 0},
+  "Sauna Ridderkerk" : { ID: 16, regex: /^(?=.*sauna)(?=.*ridderkerk).*$/ig , numPromotions: 0},
+  "Sauna Epe" : { ID: 17, regex: /^(?=.*sauna)(?=.*epe).*$/ig , numPromotions: 0},
+  "Sauna Devarana" : { ID: 18, regex: /devarana/gi , numPromotions: 0},
+  "Sauna Thermen 5 Mei" : { ID: 19, regex: /^(?=.*sauna)(?=.*5)(?=.*mei).*$/ig , numPromotions: 0},
+  "Spa Wellness Hof Van Saksen": { ID: 20, regex: /^(?=.*hof)(?=.*van)(?=.*saksen).*$/ig , numPromotions: 0},
+  "Sauna Thermen Zuidwolde": { ID: 21, regex: /zuidwolde/gi , numPromotions: 0},
+  "Sauna Papendrecht": { ID: 22, regex: /^(?=.*sauna)(?=.*papendrecht).*$/ig , numPromotions: 0},
+  "Mist City Spa": { ID: 23, regex: /^(?=.*mist)(?=.*city).*$/ig , numPromotions: 0},
+  "Descansa": { ID: 24, regex: /descansa/gi , numPromotions: 0},
+  "Dennenmarken": { ID: 25, regex: /dennenmarken/gi , numPromotions: 0},
+  "Fontana Nieuweschans": { ID: 26, regex: /^(?=.*fontana)(?=.*nieuweschans).*$/ig , numPromotions: 0},
+  "Aphrodites Thermen": { ID: 27, regex: /aphrodites/gi , numPromotions: 0},
+  "Ons Buiten Oostkapelle": { ID: 28, regex: /^(?=.*ons)(?=.*buiten)(?=.*oostkapelle).*$/ig , numPromotions: 0},
+  "Wellness Leiden": { ID: 29, regex: /^(?=.*wellness)(?=.*leiden).*$/ig , numPromotions: 0},
+  "Sauna Warmond": { ID: 30, regex: /^(?=.*sauna)(?=.*warmond).*$/ig , numPromotions: 0},
+  "Sauna Deco": { ID: 31, regex: /^(?=.*sauna)(?=.*deco).*$/ig , numPromotions: 0},
+  "Sauna Centre Haarlem": { ID: 32, regex: /^(?=.*centre)(?=.*haarlem).*$/ig , numPromotions: 0},
+  "Sauna Van Egmond Haarlem": { ID: 33, regex: /^(?=.*sauna)(?=.*egmond)(?=.*haarlem).*$/ig , numPromotions: 0},
+  "Sauna Den Ilp": { ID: 34, regex: /^(?=.*den)(?=.*ilp).*$/ig , numPromotions: 0},
+  "Sauna Het Kuurhuys": { ID: 35, regex: /kuurhuys/gi , numPromotions: 0},
+  "Sauna Ridderrode": { ID: 36, regex: /^(?=.*sauna)(?=.*ridderrode).*$/ig , numPromotions: 0},
+  "De Sauna Van Diemen": { ID: 37, regex: /^(?=.*sauna)(?=.*diemen).*$/gi , numPromotions: 0},
+  "Spa Wellness Chateau St Gerlach": { ID: 38, regex: /^(?=.*chateau)(?=.*gerlach).*$/gi , numPromotions: 0},
+  "Vita Allegra": { ID: 39, regex: /^(?=.*vita)(?=.*allegra).*$/gi , numPromotions: 0},
+  "Wellnesscentrum Hamam Asselt": { ID: 40, regex: /^(?=.*wellness)(?=.*asselt).*$/gi , numPromotions: 0},
+  "Finlandia": { ID: 41, regex: /finlandia/gi , numPromotions: 0},
+  "Sauna De Wilder Zwembad De Wilder": { ID: 42, regex: /^(?=.*sauna)(?=.*wilder).*$/gi , numPromotions: 0},
+  "Sauna Bolke Gay Sauna": { ID: 43, regex: /^(?=.*bolke)(?=.*sauna).*$/gi , numPromotions: 0},
+  "Body Home": { ID: 44, regex: /^(?=.*body)(?=.*home).*$/gi , numPromotions: 0},
+  "Sauna Bodycare": { ID: 45, regex: /bodycare/gi , numPromotions: 0},
+  "Wilmersberg": { ID: 46, regex: /wilmersberg/gi , numPromotions: 0},
+  "Sauna Kontrast": { ID: 47, regex: /^(?=.*sauna)(?=.*kontrast).*$/gi , numPromotions: 0},
+  "Spa Wellness Sneek": { ID: 48, regex: /^(?=.*wellness)(?=.*sneek).*$/gi , numPromotions: 0},
+  "Sauna Terschelling": { ID: 49, regex: /^(?=.*sauna)(?=.*terschelling).*$/gi , numPromotions: 0},
+  "Sauna Loppersum": { ID: 50, regex: /^(?=.*sauna)(?=.*loppersum).*$/gi , numPromotions: 0},
+  "Hotel Aan De Wymerts": { ID: 51, regex: /wymerts/gi , numPromotions: 0},
+  "Tjaarda Oranjewoud": { ID: 52, regex: /^(?=.*tjaarda)(?=.*oranjewoud).*$/gi , numPromotions: 0},
+  "Sauna La Femme": { ID: 53, regex: /lafemme/gi , numPromotions: 0},
+  "Wellness Lucia": { ID: 54, regex: /^(?=.*wellness)(?=.*lucia).*$/gi , numPromotions: 0},
+  "Sauna Aquarius": { ID: 55, regex: /^(?=.*sauna)(?=.*aquarius).*$/gi , numPromotions: 0},
+  "Sauna Helios": { ID: 56, regex: /^(?=.*sauna)(?=.*helios).*$/gi , numPromotions: 0},
+  "Beauty Center De Terp": { ID: 57, regex: /^(?=.*beauty)(?=.*terp).*$/gi , numPromotions: 0},
+  "Sauna Bad Hesselingen Meppel": { ID: 58, regex: /^(?=.*hesselingen)(?=.*sauna).*$/gi , numPromotions: 0},
+  "Sauna Oosterhout": { ID: 59, regex: /^(?=.*sauna)(?=.*oosterhout).*$/gi , numPromotions: 0},
+  "Landgoed De Rosep": { ID: 60, regex: /^(?=.*rosep)(?=.*landgoed).*$/gi , numPromotions: 0},
+  "Sauna Gieterveen": { ID: 61, regex: /^(?=.*sauna)(?=.*gieterveen).*$/gi , numPromotions: 0},
+  "Abdij De Westerburcht": { ID: 62, regex: /^(?=.*abdij)(?=.*westerburcht).*$/gi , numPromotions: 0},
+  "Brabant Sauna Haarsteeg": { ID: 63, regex: /^(?=.*haarsteeg)(?=.*sauna).*$/gi , numPromotions: 0},
+  "Bron Apart": { ID: 64, regex: /^(?=.*bron)(?=.*apart).*$/gi , numPromotions: 0},
+  "Spameland": { ID: 65, regex: /spameland/gi , numPromotions: 0},
+  "Float Centrum Zeeland": { ID: 66, regex: /^(?=.*float)(?=.*centrum)(?=.*zeeland).*$/gi , numPromotions: 0},
+  "Sauna Franeker": { ID: 67, regex: /franeker/gi , numPromotions: 0},
+  "Aquavia": { ID: 68, regex: /aquavia/gi , numPromotions: 0},
+  "Thermen En Beauty Zeeland": { ID: 69, regex: /^(?=.*thermen)(?=.*zeeland).*$/gi , numPromotions: 0},
+  "Veluwse Bron": { ID: 70, regex: /^(?=.*veluwse)(?=.*bron).*$/gi , numPromotions: 0},
+  "Sauna De Bongerd": { ID: 71, regex: /^(?=.*bongerd)(?=.*sauna).*$/gi , numPromotions: 0},
+  "Sauna Hotstones": { ID: 72, regex: /^(?=.*sauna)(?=.*hotstones).*$/gi , numPromotions: 0},
+  "Thermaalbad Arcen": { ID: 73, regex: /^(?=.*thermaalbad)(?=.*arcen).*$/gi , numPromotions: 0},
+  "Thermen Bussloo": { ID: 74, regex: /^(?=.*thermen)(?=.*bussloo).*$/gi , numPromotions: 0},
+  "Thermen Holiday": { ID: 75, regex: /^(?=.*thermen)(?=.*holiday).*$/gi , numPromotions: 0},
+  "Sauna Soesterberg": { ID: 76, regex: /^(?=.*sauna)(?=.*soesterberg).*$/gi , numPromotions: 0},
+  "Sauna Het Friese Woud": { ID: 77, regex: /^(?=.*friese)(?=.*woud).*$/gi , numPromotions: 0},
+  "Elysium": { ID: 78, regex: /elysium/gi , numPromotions: 0},
+  "Spavarin": { ID: 79, regex: /(?=.*spavarin).*|(?=.*spa)(?=.*savarin).*$/gi , numPromotions: 0},
+  "Spa Gouda": { ID: 80, regex: /^(?=.*spa)(?=.*gouda).*$/gi , numPromotions: 0},
+  "Wellness 1926": { ID: 81, regex: /^(?=.*wellness)(?=.*1926).*$/gi , numPromotions: 0},
+  "Sauna Aestas": { ID: 82, regex: /aestas/gi , numPromotions: 0},
+  "Sanadome": { ID: 83, regex: /sanadome/gi , numPromotions: 0},
+  "Parkhotel Horst": { ID: 84, regex: /^(?=.*parkhotel)(?=.*horst).*$/gi , numPromotions: 0},
+  "Wellness Sittard": { ID: 85, regex: /^(?=.*wellness)(?=.*sittard).*$/gi , numPromotions: 0},
+  "Bad Boekelo": { ID: 86, regex: /^(?=.*bad)(?=.*boekelo).*$/gi , numPromotions: 0},
+  "Wellness Center De Bronsbergen": { ID: 87, regex: /^(?=.*wellness)(?=.*bronsbergen).*$/gi , numPromotions: 0},
+  "Easyfeeling": { ID: 88, regex: /easyfeeling/gi , numPromotions: 0},
+  "Welcome Wellness Westcord": { ID: 89, regex: /^(?=.*welcome)(?=.*wellness)(?=.*westcord).*$/gi , numPromotions: 0},
+  "Westcord Wtc Hotel Leeuwarden": { ID: 90, regex: /^(?=.*westcord)(?=.*wtc)(?=.*leeuwarden).*$/gi , numPromotions: 0},
+  "Hunzebergen": { ID: 91, regex: /hunzebergen/gi , numPromotions: 0},
+  "Wellness Helmond": { ID: 92, regex: /^(?=.*wellness)(?=.*helmond).*$/gi , numPromotions: 0},
+  "Amadore Kamperduinen": { ID: 93, regex: /^(?=.*amadore)(?=.*kamperduinen).*$/gi , numPromotions: 0},
+  "Betuwsch Badhuys": { ID: 94, regex: /^(?=.*betuwsch)(?=.*badhuys).*$/gi , numPromotions: 0},
+  "Wellness Goes": { ID: 95, regex: /^(?=.*wellness)(?=.*goes).*$/gi , numPromotions: 0},
+  "Het Raedthuys": { ID: 96, regex: /raedthuys/gi , numPromotions: 0},
+  "Wellness Roosendaal": { ID: 97, regex: /^(?=.*wellness)(?=.*roosendaal).*$/gi , numPromotions: 0},
+  "Zwaluwhoeve": { ID: 98, regex: /zwaluwhoeve/gi , numPromotions: 0},
+  "Zuiver Amsterdam": { ID: 99, regex: /zuiver/gi , numPromotions: 0},
+  "Caesar Den Haag": { ID: 100, regex: /^(?=.*caesar)(?=.*denhaag).*$/gi , numPromotions: 0},
+  "Wellnessboot Mill": { ID: 101, regex: /^(?=.*wellnessboot)(?=.*mill).*$/gi , numPromotions: 0},
+  "Spasense": { ID: 102, regex: /spasense/gi , numPromotions: 0},
+  "De Woudfennen": { ID: 103, regex: /woudfennen/gi , numPromotions: 0},
+  "Thermae 2000": { ID: 104, regex: /^(?=.*thermae)(?=.*2000).*$/gi , numPromotions: 0},
+  "Spapuur": { ID: 105, regex: /spapuur|^(?=.*spa)(?=.*puur).*$/gi , numPromotions: 0},
+  "Spasereen": { ID: 106, regex: /spasereen/gi , numPromotions: 0},
+  "Wellness Trivium": { ID: 107, regex: /^(?=.*wellness)(?=.*trivium).*$/gi , numPromotions: 0},
+  "Thermen Goirle": { ID: 108, regex: /^(?=.*thermen)(?=.*goirle).*$/gi , numPromotions: 0},
+  "Thermen Born": { ID: 109, regex: /^(?=.*thermen)(?=.*born).*$/gi , numPromotions: 0},
+  "Dunya Hamam Eindhoven": { ID: 110, regex: /^(?=.*dunya)(?=.*hamam)(?=.*eindhoven).*$/gi , numPromotions: 0},
+  "Thermen La Mer": { ID: 111, regex: /^(?=.*thermen)(?=.*lamer).*$/gi , numPromotions: 0},
+  "Thermen Anholts": { ID: 112, regex: /^(?=.*thermen)(?=.*anholts).*$/gi , numPromotions: 0},
+  "Thermen Nijmegen": { ID: 113, regex: /^(?=.*thermen)(?=.*nijmegen).*$/gi , numPromotions: 0},
+  "Sauna Houten": { ID: 114, regex: /^(?=.*sauna)(?=.*houten).*$/gi , numPromotions: 0},
+  "Thermae Son": { ID: 115, regex: /^(?=.*thermae)(?=.*son).*$/gi , numPromotions: 0},
+  "Thermen De Waterlelie": { ID: 116, regex: /waterlelie(?!s)/gi , numPromotions: 0},
+  "Sauna De Veluwe": { ID: 117, regex: /saunadeveluwe/gi , numPromotions: 0},
+  "Sauna Beautyfarm Midwolda": { ID: 118, regex: /midwolda/gi , numPromotions: 0},
+  "Sauna Drome Putten": { ID: 119, regex: /^(?=.*dr[oô]me)(?=.*putten).*$/gi , numPromotions: 0},
+  "Spa Wellness Weesp": { ID: 120, regex: /^(?=.*weesp)(?=.*spa)(?=.*wellness).*$/gi , numPromotions: 0},
+  "Saunastate": { ID: 121, regex: /saunastate/gi , numPromotions: 0},
+  "Sauna Velp": { ID: 122, regex: /^(?=.*sauna)(?=.*velp).*$/gi , numPromotions: 0},
+  "Beautycentrum De Parel": { ID: 123, regex: /^(?=.*parel)(?=.*beautycentrum).*$/gi , numPromotions: 0},
+  "Sauna Leeuwerikhoeve": { ID: 124, regex: /leeuwerikhoeve/gi , numPromotions: 0},
+  "Sauna De Leliehof": { ID: 125, regex: /leliehof/gi , numPromotions: 0},
+  "Sauna Swoll": { ID: 126, regex: /^(?=.*swoll)(?=.*sauna).*$/gi , numPromotions: 0},
+  "Sauna Hoen": { ID: 127, regex: /^(?=.*sauna)(?=.*hoen).*$/gi , numPromotions: 0},
+  "Sauna En Beauty Ommen": { ID: 128, regex: /^(?=.*ommen)(?=.*sauna)(?=.*beauty).*$/gi , numPromotions: 0},
+  "Sare Thermen Beauty": { ID: 129, regex: /^(?=.*sare)(?=.*thermen).*$/gi , numPromotions: 0},
+  "Palestra": { ID: 130, regex: /palestra/gi , numPromotions: 0},
+  "Orange Wellness Centre": { ID: 131, regex: /^(?=.*orange)(?=.*wellness)(?=.*centre).*$/gi , numPromotions: 0},
+  "Fonteyn Thermen": { ID: 132, regex: /^(?=.*fonteyn)(?=.*thermen).*$/gi , numPromotions: 0},
+  "De Thermen": { ID: 133, regex: /dethermen/gi , numPromotions: 0},
+  "Centre Du Lac": { ID: 134, regex: /^(?=.*centre)(?=.*du)(?=.*lac).*$/gi , numPromotions: 0},
+  "Sauna Beauty Oase Senang": { ID: 135, regex: /^(?=.*senang)(?=.*sauna)(?=.*oase).*$/gi , numPromotions: 0},
+  "Top Alivio": { ID: 136, regex: /^(?=.*top)(?=.*alivio).*$/i , numPromotions: 0},
+  "Sauna Suomi": { ID: 137, regex: /^(?=.*sauna)(?=.*suomi).*$/i , numPromotions: 0},
+  "Sauna Nijverdal": { ID: 138, regex: /^(?=.*sauna)(?=.*nijverdal).*$/i , numPromotions: 0},
+  "Spabron Hesselerbrug": { ID: 139, regex: /hesselerbrug/i , numPromotions: 0},
+}
