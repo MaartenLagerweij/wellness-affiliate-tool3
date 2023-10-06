@@ -3,6 +3,46 @@ const axios = require('axios');
 
 const wellnessListIDs = require(__dirname+'/../data/wellnessListIDs.js');
 
+const campaigns = {
+    spaOnline: {
+        network: 'daisycon',
+        url: 'https://daisycon.io/datafeed/?media_id=244044&standard_id=1&language_code=nl&locale_id=1&type=JSON&program_id=11136&html_transform=none&rawdata=false&encoding=utf8&general=false'
+    },
+    adWebwinkel: {
+        network: 'daisycon',
+        url: 'https://daisycon.io/datafeed/?media_id=244044&standard_id=16&language_code=nl&locale_id=1&type=JSON&program_id=13048&html_transform=none&rawdata=false&encoding=utf8&general=false'
+    },
+    fletcher: {
+        network: 'daisycon',
+        url: 'https://daisycon.io/datafeed/?media_id=244044&standard_id=16&language_code=nl&locale_id=1&type=JSON&program_id=13146&html_transform=none&rawdata=false&encoding=utf8&general=false'
+    },
+    vakantieVeilingen: {
+        network: 'tradetracker',
+        url: 'https://pf.tradetracker.net/?aid=228134&encoding=utf-8&type=json&fid=1185051&productFeedCategoryHash=1f337e60263d2a5b7a6c91540fa3bbf8&categoryType=2&additionalType=2'
+    },
+    // actievandedag: {
+    //     network: 'tradetracker',
+    //     url: 'https://pf.tradetracker.net/?aid=228134&encoding=utf-8&type=json&fid=1261798&categoryType=2&additionalType=2'
+    // },
+    // ticketveiling: {
+    //     network: 'tradetracker',
+    //     url: 'https://pf.tradetracker.net/?aid=228134&encoding=utf-8&type=json&fid=1922718&categoryType=2&additionalType=2'
+    // },
+    tripper: {
+        network: 'tradetracker',
+        url: 'https://pf.tradetracker.net/?aid=228134&encoding=utf-8&type=json&fid=1169772&productFeedCategoryHash=32a07c6643e39bb3fe494292db9ae233&categoryType=2&additionalType=2'
+    },
+    // zoweg: {
+    //     network: 'tradetracker',
+    //     url: 'https://pf.tradetracker.net/?aid=228134&encoding=utf-8&type=json&fid=750467&categoryType=2&additionalType=2'
+    // },
+    // hotelspecials: {
+    //     network: 'tradetracker',
+    //     url: ''
+    // }
+};
+
+
 const affiliateFeedURLs = {
     'daisycon': response => response.data.datafeed.programs[0].products,
     'tradetracker': response => response.products,
@@ -23,7 +63,7 @@ function filterPromotions(promotionsArr){
 
 //Data is not consistent for both TradeTracker and Daisycon. That's why make a mappedPromotion array that returns a consistent object of the necessary data
 function createMappedPromotions(filteredPromotions){
-    return filteredPromotions.map((promotion,index) => {
+    return filteredPromotions.map(promotion => {
         let titlePromotion = promotion.name ? promotion.name : promotion.product_info.title
         titlePromotion = titlePromotion.replace(/[\s,-:]/g,"");
         //let show = currentWellness["regex"].test(titlePromotion);
@@ -54,7 +94,6 @@ function createMappedPromotions(filteredPromotions){
             if(wellnessObject.regex.test(promotion.name)) promotion.wellnessName = wellnessName;
         })
         return {
-            id: index,
             campaignID: promotion.campaignID,
             wellnessName: promotion.wellnessName,
             title: promotion.name,
@@ -78,13 +117,21 @@ async function fetchAndFilterData(url, network){
 }
 
 
-async function getAllData(){
-    await fetchAndFilterData('https://daisycon.io/datafeed/?media_id=244044&standard_id=16&language_code=nl&locale_id=1&type=JSON&program_id=13146&html_transform=none&rawdata=false&encoding=utf8&general=false', 'daisycon');
-    //console.log(createMappedPromotions(promotions));
-    console.log('promotions: ', promotions);
+async function getAllData(campaign){
+    try{
+        await fetchAndFilterData(campaign.url, campaign.network);
+    }catch(err){
+        console.log('Error:', err, '\nthere was a problem with getAllData when trying to get data for: ', campaign)
+    }
 }
 
 
-getAllData();
+async function main(){
+    for(let campaignKey of Object.keys(campaigns)){
+        await getAllData(campaigns[campaignKey]);
+    }
+    for(let i = 0; i < promotions.length; i++) promotions[i]['id'] = i;
+    console.log('promotions: ', promotions);
+}
 
-
+main();
