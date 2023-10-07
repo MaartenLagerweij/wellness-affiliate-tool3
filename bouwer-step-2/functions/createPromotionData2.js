@@ -39,6 +39,22 @@ const campaigns = {
     hotelspecials: {
         network: 'tradetracker',
         url: 'https://pf.tradetracker.net/?aid=228134&encoding=utf-8&type=json&fid=344304&categoryType=2&additionalType=2'
+    },
+    voordeeluitjes1: {
+        network: 'tradetracker',
+        url: 'https://pf.tradetracker.net/?aid=228134&encoding=utf-8&type=json&fid=1904458&categoryType=2&additionalType=2&part=1_4'
+    },
+    voordeeluitjes2: {
+        network: 'tradetracker',
+        url: 'https://pf.tradetracker.net/?aid=228134&encoding=utf-8&type=json&fid=1904458&categoryType=2&additionalType=2&part=2_4'
+    },
+    voordeeluitjes3: {
+        network: 'tradetracker',
+        url: 'https://pf.tradetracker.net/?aid=228134&encoding=utf-8&type=json&fid=1904458&categoryType=2&additionalType=2&part=3_4'
+    },
+    voordeeluitjes4: {
+        network: 'tradetracker',
+        url: 'https://pf.tradetracker.net/?aid=228134&encoding=utf-8&type=json&fid=1904458&categoryType=2&additionalType=2&part=4_4'
     }
 };
 
@@ -130,7 +146,14 @@ async function main(){
         await getAllData(campaigns[campaignKey]);
     }
     for(let i = 0; i < promotions.length; i++) promotions[i]['id'] = i;
-    console.log('promotions: ', promotions);
+    fs.writeFileSync(__dirname+'/../data/promotions2.json', JSON.stringify(promotions), ()=> {
+        if(err){
+            console.log('Error with writing data to promotions2.json');
+        } else {
+            console.log('Wrote data to promotions2.json');
+        }
+    })
+    //console.log('promotions: ', promotions);
 }
 
 main();
