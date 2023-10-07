@@ -20,32 +20,32 @@ const campaigns = {
         network: 'tradetracker',
         url: 'https://pf.tradetracker.net/?aid=228134&encoding=utf-8&type=json&fid=1185051&productFeedCategoryHash=1f337e60263d2a5b7a6c91540fa3bbf8&categoryType=2&additionalType=2'
     },
-    // actievandedag: {
-    //     network: 'tradetracker',
-    //     url: 'https://pf.tradetracker.net/?aid=228134&encoding=utf-8&type=json&fid=1261798&categoryType=2&additionalType=2'
-    // },
-    // ticketveiling: {
-    //     network: 'tradetracker',
-    //     url: 'https://pf.tradetracker.net/?aid=228134&encoding=utf-8&type=json&fid=1922718&categoryType=2&additionalType=2'
-    // },
+    actievandedag: {
+        network: 'tradetracker',
+        url: 'https://pf.tradetracker.net/?aid=228134&encoding=utf-8&type=json&fid=1261798&categoryType=2&additionalType=2'
+    },
+    ticketveiling: {
+        network: 'tradetracker',
+        url: 'https://pf.tradetracker.net/?aid=228134&encoding=utf-8&type=json&fid=1922718&categoryType=2&additionalType=2'
+    },
     tripper: {
         network: 'tradetracker',
         url: 'https://pf.tradetracker.net/?aid=228134&encoding=utf-8&type=json&fid=1169772&productFeedCategoryHash=32a07c6643e39bb3fe494292db9ae233&categoryType=2&additionalType=2'
     },
-    // zoweg: {
-    //     network: 'tradetracker',
-    //     url: 'https://pf.tradetracker.net/?aid=228134&encoding=utf-8&type=json&fid=750467&categoryType=2&additionalType=2'
-    // },
-    // hotelspecials: {
-    //     network: 'tradetracker',
-    //     url: ''
-    // }
+    zoweg: {
+        network: 'tradetracker',
+        url: 'https://pf.tradetracker.net/?aid=228134&encoding=utf-8&type=json&fid=750467&categoryType=2&additionalType=2'
+    },
+    hotelspecials: {
+        network: 'tradetracker',
+        url: 'https://pf.tradetracker.net/?aid=228134&encoding=utf-8&type=json&fid=344304&categoryType=2&additionalType=2'
+    }
 };
 
 
 const affiliateFeedURLs = {
     'daisycon': response => response.data.datafeed.programs[0].products,
-    'tradetracker': response => response.products,
+    'tradetracker': response => response.data.products,
 }
 
 const promotions = [];
@@ -66,7 +66,6 @@ function createMappedPromotions(filteredPromotions){
     return filteredPromotions.map(promotion => {
         let titlePromotion = promotion.name ? promotion.name : promotion.product_info.title
         titlePromotion = titlePromotion.replace(/[\s,-:]/g,"");
-        //let show = currentWellness["regex"].test(titlePromotion);
     
         //This IF statement is the case of the Daisycon data from SpaOnline. Make object that's consistent with TradeTracker VakantieVeilingen:
         if(promotion.hasOwnProperty('update_info')){
