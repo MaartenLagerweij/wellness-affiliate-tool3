@@ -153,7 +153,7 @@ async function main(){
             console.log('Wrote data to promotions.json');
         }
     })
-    //console.log('promotions: ', promotions);
+    console.log('promotions: ', promotions);
 }
 
 main();

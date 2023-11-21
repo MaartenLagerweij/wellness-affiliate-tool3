@@ -4,7 +4,7 @@
     //import the campaigns so that they can be printed in the options
     import {campaigns} from './campaigns';
     import {wellnessListIDs} from './wellnessListIDs';
-    import mappedPromotions from './input.json';
+    import mappedPromotions from './promotions.json';
 
     //The numPromotionsForFilter is deleted in this project, maybe create new here, since before it came from the bouwer-step-2 project
 

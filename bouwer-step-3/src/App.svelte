@@ -2,7 +2,7 @@
 	import 'bootstrap/dist/css/bootstrap.css';
 	
 	//Load the promotion data and map each promotion into a universal object that could be used to create each Card
-	import mappedPromotions from './input.json';
+	import mappedPromotions from './promotions.json';
 	import {wellnessListIDs} from './wellnessListIDs';
 
 	import Filter from './Filter.svelte';
@@ -40,21 +40,21 @@
 
 <main>
 	<div class="container">
-		<!-- <Filter on:filter={handleFilter} />
+		<Filter on:filter={handleFilter} />
 			{#each promotions as promotion (promotion.id)}
 				<Card {promotion} {currentWellness}/>
-			{/each} -->
+			{/each}
 
 		<!-- <h3>Underneath an overview of the Card2 template:</h3>-->
 
-		<Filter on:filter={handleFilter} />
+		<!-- <Filter on:filter={handleFilter} />
 			<div class="row">
 				{#each promotions as promotion (promotion.id)}
 					<div class="col-md-4">
 						<Card2 {promotion} />
 					</div>
 				{/each}
-			</div>
+			</div> -->
 	</div>
 </main>
 
