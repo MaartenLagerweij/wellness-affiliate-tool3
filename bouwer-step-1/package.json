@@ -1,0 +1,22 @@
+{
+  "name": "bouwer-step-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@daisycon/oauth-cli-client": "^1.0.4",
+    "axios": "^1.4.0",
+    "axios-auth-refresh": "^3.3.6",
+    "commander": "^11.0.0",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}

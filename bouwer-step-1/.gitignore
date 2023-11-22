@@ -1,0 +1,4 @@
+.env
+/api_daisycon/tokens.json
+/api_daisycon/connect.js
+/node_modules
