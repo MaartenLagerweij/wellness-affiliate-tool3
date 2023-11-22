@@ -42,7 +42,7 @@
         });
     }
 
-    //Make the new numPromotionsForFilter that before came from createPromotionsData.js:
+    //Make the new numPromotionsForFilter that previously came from createPromotionsData.js:
     const numPromotionsForFilter = {
         'all': mappedPromotions.length,
         'SpaOnline.com': 0,
@@ -54,6 +54,7 @@
         'ZoWeg': 0,
         'AD Webwinkel': 0,
         'Voordeeluitjes.nl': 0,
+        'Fletcher': 0,
     }
     mappedPromotions.forEach(promotion => {
         //console.log(campaigns[promotion.campaignID].name)

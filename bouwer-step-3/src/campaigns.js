@@ -35,4 +35,8 @@ export const campaigns = {
             name: 'AD Webwinkel',
             image: 'https://wellnesscentrumnederland.nl/wp-content/uploads/2020/02/ad-webwinkel-logo.png'
         },
+        13146: {
+            name: 'Fletcher',
+            image: 'https://wellnesscentrumnederland.nl/wp-content/uploads/2020/02/fletcher-logo.png'
+        },
     }

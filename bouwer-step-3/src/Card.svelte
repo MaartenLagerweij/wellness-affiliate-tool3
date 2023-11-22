@@ -3,14 +3,14 @@
     import PriceComponent from './priceComponent.svelte';
 
     export let promotion;
-    export let currentWellness;
+    //export let currentWellness;
 
     let {url, campaignID, title, location, oldPrice, newPrice, wellnessName, discount} = promotion;
 
-    let show = currentWellness === wellnessName ? true : false;
     
     if(/\|/.test(location))location = location.replace(/\|.*/,"");
-
+    
+    //let show = currentWellness === wellnessName ? true : false;
     //style="display: {show ? "block" : "none"}"
 </script>
 
@@ -22,7 +22,7 @@
                     <h5 class="promotion-title">{title}</h5>
                     <div class="extra-info">
                         {#if location && (typeof location !== 'object' || (Array.isArray(location) && location.length > 0))}
-                            <p class="promotion-location"><i class="fas fa-map-marker"></i>  {location}</p>
+                            <p class="promotion-location">  {location}</p>
                         {/if}
                         <PriceComponent {oldPrice} {newPrice} {discount} {campaignID} />
                     </div>

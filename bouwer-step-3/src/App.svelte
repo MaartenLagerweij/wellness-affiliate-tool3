@@ -53,8 +53,8 @@
 					<div class="col-md-4">
 						<Card2 {promotion} />
 					</div>
-				{/each}
-			</div> -->
+				{/each} 
+			</div>-->
 	</div>
 </main>
 
