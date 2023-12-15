@@ -1,0 +1,681 @@
+/*
+Theme Name:     Listify Child
+Theme URI:      https://astoundify.com/products/listify/
+Template:       listify
+Version:        1.0
+*/
+
+.job_listings li {
+	max-width: 400px;
+}
+
+.listing-star {
+    padding: 1px;
+}
+
+/* Start styles for frame-sauna-korting on /sauna-korting/ */
+.frame-sauna-korting {
+  max-height: 1000px;
+  overflow-y: scroll;
+}
+
+.frame-sauna-korting::-webkit-scrollbar {
+  -webkit-appearance: none;
+  width: 8px;
+}
+
+.frame-sauna-korting::-webkit-scrollbar-thumb {
+  border-radius: 4px;
+  background-color: rgba(0,0,0,.5);
+  box-shadow: 0 0 1px rgba(255,255,255,.5);
+}
+/* End styles for frame-sauna-korting on /sauna-korting/ */
+
+/* Start styles for the affiliate promotion cards: */
+.promotion-link {
+        text-decoration: none;
+    }
+    .promotion .logo {
+        max-width: 105px;
+    }
+    .promotion {
+        margin: 10px;
+    }
+    .promotion-info {
+        color: black;
+    }
+    .promotion-location {
+        margin-bottom: 0px;
+        text-align: center;
+    }
+    .promotion:hover {
+        cursor: pointer;
+        text-decoration: underline;
+    }
+    .promotion-body {
+        display: flex;
+        align-items: center;
+        gap: 1rem;
+        justify-content: space-between;
+        text-decoration: none !important;
+        padding: 13px;
+        text-align: center;
+        border: dashed 1px #4f4f4f;
+    }
+    /* Use below to avoid double border dashed for promotion cards (coming from Svelte app and these promotion styles) */
+    #svelte-app .promotion-body {
+      border: none;
+    }
+    .promotion .extra-info {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        align-items: center;
+        gap: 2rem;
+    }
+    
+    /* All the button styling and span hover effect */
+    .promotion button {
+        box-shadow: 0 0 3px #7b7b7b;
+        background-color: #f46500;
+        border: 2px solid #fff;
+        border-radius: 3px;
+        font-weight: bold;
+        min-width: 140px;
+        color: #fff;
+        padding: 8px;
+    }
+
+    .promotion button span {
+        cursor: pointer;
+        display: inline-block;
+        position: relative;
+        transition: 0.5s;
+    }
+
+    .promotion button span:after {
+        content: "\00bb";
+        position: absolute;
+        opacity: 0;
+        top: 0;
+        right: -20px;
+        transition: 0.5s;
+    }
+
+    .promotion button:hover span {
+        padding-right: 25px;
+    }
+
+    .promotion button:hover span:after {
+        opacity: 1;
+        right: 0;
+    }
+    /* On Wellnesscentrumnederland.nl the styles for h5 would otherwise get a lot of margin */
+    .promotion h5 {
+        margin: 6px 0 4px;
+        font-size: 15px;
+    }
+    .cta {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .cta img {
+        transform: rotate(-40deg) scaleX(-1);
+        margin: -4px 0px -10px -40px;
+    }
+    
+    .fa-map-marker:before {
+        content: "\f041";
+        font: normal normal normal 14px/1 FontAwesome;
+        font-size: 22px;
+        color: #595959;
+    }
+    /* Make the Promotion cards more responsive */
+    @media only screen and (max-width: 800px) {
+        .promotion {
+            margin: 10px 0px;
+            display: inline-block;
+            width: 100%;
+        }
+        .promotion h5 {
+            margin: 0px 0px 5px 0px;
+        }
+        .promotion-body {
+            flex-direction: column;
+            align-items: center;
+            padding: 10px;
+            gap: 0.75rem;
+        }
+    }
+      /* From here the price-component styles inside the promotion cards */
+  .hidden {
+      display: none;
+  }
+  .price-info {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+  }
+  .price-info .new {
+      color: #06a306;
+      font-size: 1.00rem;
+      font-weight: 600;
+      background-color: #cfeccf;
+      padding: 3px 10px;
+      border-radius: 5%;
+      text-decoration: underline;
+  }
+  .price-info .old {
+      font-size: 0.85rem;
+      text-decoration: line-through;
+      color: #626262;
+  }
+  .new-discount {
+      flex-direction: row;
+      display: flex;
+      align-items: center;
+  }
+  .price-info .discount {
+      font-weight: 600;
+      background-color: #cfeccf;
+      padding: 3px 7px;
+      border-radius: 5%;
+      color: #06a406;
+  }
+  @media only screen and (max-width: 640px) {
+      .price-info {
+          flex-direction: column;
+          align-items: center;
+      }
+  }
+/* End styles for the affiliate promotion cards: */
+
+
+/* This one because the secondary navigation is put outside the <header> element */
+body {
+    padding-top: 75px !important;
+}
+
+
+/* Underneath is all the custom CSS that was pasted from the old version from Simple Custom CSS and after running purify-css locally */
+
+/*Start rewrite some of the font awesomes*/
+.far.fa-map-marker,
+.fa-map-marker.far {
+  font-family: 'Font Awesome 6 Free'; /* Bijgewerkte font-family */
+  font-weight: 400; /* regular style */
+  content: "\f041"; /* Unicode van de map-marker icoon in Font Awesome */
+}
+/*End rewrite some of the font awesomes*/
+
+/* New styles for .deal */
+
+@media (min-width: 768px) {
+  .image-logo {
+    flex-basis: 18%;
+  }
+
+  .price-discount {
+    flex-basis: 14%;
+  }
+
+  .deal-button {
+    flex-basis: 14%;
+  }
+}
+
+@media (max-width: 768px) {
+  .image-logo {
+    flex-basis: 31%;
+  }
+
+  .price-discount {
+    flex-basis: 45%;
+  }
+
+  .deal-button {
+    flex-basis: 45%;
+  }
+}
+
+/* Styling the tables with class .nieuwstabel */
+.nieuwstabel {
+	background-color: #F7F8FF;
+    border: 1px solid #A2B8D2;
+	border-collapse: initial !important;
+}
+.nieuwstabel th {
+	border: 3px solid white;
+    background-color: #164A86;
+    color: white;
+}
+
+.nieuwstabel td {
+    border: 3px solid white;
+}
+
+.nieuwstabel li {
+    list-style-type: none;
+    width: 200px;
+    float: left;
+}
+/* End styling the tables with class .nieuwstabel */
+
+.deal {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin: 10px 0px 10px 0px;
+  background-color: #f5f5f5;
+  border: 1px;
+  padding: 16px 5px 16px 5px;
+  border-style: dashed;
+}
+
+.deal div {
+  padding: 12px;
+  text-align: center;
+}
+
+.price-discount {
+  color: #299a03;
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.vakantieveilingen {
+  background-image: url(https://wellnesscentrumnederland.nl/wp-content/uploads/2017/10/Logo-vakantieveiligen.png);
+  width: 120px;
+  height: 90px;
+  background-repeat: no-repeat;
+  display: block !important;
+}
+
+.deal button,.deal button:hover {
+  -webkit-box-shadow: 0 0 3px #7b7b7b;
+  box-shadow: 0 0 3px #7b7b7b;
+  background-color: #f46500;
+  border: 2px solid #fff;
+  border-radius: 3px;
+  font-weight: bold;
+}
+
+/* End new styles for .deal */
+
+.single-job_listing-respond {
+  color: white !important;
+}
+
+.deals {
+  margin: 10px 0px 10px 0px;
+  background-color: #f5f5f5;
+  border: 1px;
+  padding: 16px 5px 16px 5px;
+  border-style: dashed;
+}
+
+.deals a {
+  color: blue;
+  font-size: 14px;
+  text-decoration: underline;
+  font-weight: 600;
+}
+
+.deals button {
+  background-color: orange;
+  width: 310px;
+  margin-top: 10px;
+  height: 40px;
+}
+
+.deals button:hover {
+  background-color: rgb(255, 167, 7);
+}
+
+.content-box-inner .job_listing {
+  width: 96%;
+}
+
+.content-box-inner .job_listings {
+  width: 50%;
+  float: left;
+}
+
+.nav-pills>li>a {
+  border: 1px solid #ECECEC;
+  border-bottom: 1px solid grey;
+  margin: 0px 2px 10px 0px;
+  padding: 10px 7px 10px 7px;
+}
+
+.job_listing h3 {
+  border-bottom: none;
+  color: white;
+}
+
+.contact {
+  list-style-type: none;
+  float: left;
+  padding: 10px;
+}
+
+.primary-header {
+  background-color: #292929;
+}
+
+.site-branding img {
+  height: 70px;
+}
+
+.primary-header {
+  opacity: 0.83;
+}
+
+.job_position_featured .content-box {
+  box-shadow: 0 0 0 1px #818181;
+}
+
+.btn-primary:hover {
+  color: #fff !important;
+  background-color: #286090 !important;
+  border-color: #204d74 !important;
+}
+
+.myaccount_address {
+  display: none;
+}
+
+.woocommerce .col2-set .col-1,.woocommerce-page .col2-set .col-1 {
+  display: none;
+}
+
+.woocommerce .col2-set .col-2,.woocommerce-page .col2-set .col-2 {
+  display: none;
+}
+
+.showing_jobs {
+  display: none !important;
+}
+
+.popup-trigger {
+  display: none !important;
+}
+
+p {
+  text-align: justify;
+}
+
+.comment-form-url {
+  display: none;
+}
+
+@media all and (max-width: 1200px) {
+  .overnachting {
+    width: 100% !important;
+  }
+}
+
+@media all and (max-width: 1000px) {
+  .overnachting {
+    width: 100% !important;
+  }
+}
+
+@media all and (max-width: 500px) {
+  p {
+    display: inline-block;
+  }
+
+  .spaonline {
+    display: none;
+  }
+
+  .vakantieveilingen {
+    display: none;
+  }
+
+  .elysium {
+    display: none;
+  }
+
+  .veluwsebron {
+    display: none;
+  }
+
+  .zwaluwhoeve {
+    display: none;
+  }
+
+  .ticketveiling {
+    display: none;
+  }
+
+  .actievandedag {
+    display: none;
+  }
+
+  .content-box-inner .job_listings {
+    width: 100%;
+  }
+}
+
+.overnachting {
+  float: right;
+  border: 1px solid #9E9E9E;
+  padding: 20px;
+  padding-bottom: 4px;
+  border-top-left-radius: 6%;
+  background-color: #FBFBFB;
+  border-bottom-right-radius: 6%;
+  width: 400px;
+}
+
+.overnachting button {
+  background-color: orange;
+  font-size: 17px;
+}
+
+.overnachting button:hover {
+  background-color: #F9A60F;
+}
+
+.overnachting img {
+  height: 70px;
+  opacity: 0.7;
+  margin-left: 120px;
+  margin-top: 10px;
+}
+
+#breadcrumbs {
+  font-size: 11px;
+}
+
+#breadcrumbs a {
+  text-decoration: none;
+}
+
+.floatleft {
+  float: left;
+}
+
+.a1 img {
+  float: left;
+  border-radius: 100%;
+  width: 430px;
+  height: 380px;
+  border: 3px solid #C3C3C3;
+  padding: 1px;
+  margin-top: -50px;
+}
+
+.a2 img {
+  float: left;
+  border-radius: 100%;
+  width: 300px;
+  height: 300px;
+  border: 3px solid #C3C3C3;
+  padding: 1px;
+  margin-left: -180px;
+}
+
+.a4 img {
+  border-radius: 100%;
+  width: 300px;
+  height: 300px;
+  border: 3px solid #C3C3C3;
+  padding: 1px;
+}
+
+.a5 img {
+  float: left;
+  border-radius: 100%;
+  width: 350px;
+  height: 350px;
+  border: 3px solid #C3C3C3;
+  padding: 1px;
+}
+
+.textwidget hr {
+  background-color: #696969;
+}
+
+.fa-fire {
+  font-size: 26px;
+  vertical-align: middle;
+  margin-right: 10px;
+  margin-top: -4px;
+}
+
+.fa-tint {
+  font-size: 26px;
+  vertical-align: middle;
+  margin-right: 10px;
+  margin-top: -4px;
+}
+
+.fa-tags {
+  font-size: 26px;
+  vertical-align: middle;
+  margin-right: 10px;
+  margin-top: -4px;
+}
+
+.fa-eye {
+  font-size: 26px;
+  vertical-align: middle;
+  margin-right: 10px;
+  margin-top: -4px;
+}
+
+h2 {
+  color: #6B6B6A;
+}
+
+h3 {
+  color: #6B6B6A;
+}
+
+/* .job_position_featured .content-box .job_listing-entry-footer {
+  background-image: url(https://wellnesscentrumnederland.nl/wp-content/uploads/2015/11/populair-banner.png);
+  background-repeat: repeat-y;
+  background-position: right;
+} */
+
+.job_listing .content-box:hover {
+  box-shadow: 1px 1px 9px 2px !important;
+}
+
+.vakantieveilingen {
+  background-image: url(https://wellnesscentrumnederland.nl/wp-content/uploads/2020/02/vakantieveilingen-logo2.jpg);
+  width: 120px;
+  height: 90px;
+  background-repeat: no-repeat;
+  float: left;
+}
+
+.elysium {
+  background-image: url(https://wellnesscentrumnederland.nl/wp-content/uploads/2016/11/Elysium-logo.jpg2);
+  width: 120px;
+  height: 92px;
+  background-repeat: no-repeat;
+  float: left;
+}
+
+.spaonline {
+  background-image: url(https://wellnesscentrumnederland.nl/wp-content/uploads/2015/12/Spaonline.jpg);
+  width: 120px;
+  height: 80px;
+  background-repeat: no-repeat;
+  float: left;
+}
+
+.ticketveiling {
+  background-image: url(https://wellnesscentrumnederland.nl/wp-content/uploads/2020/02/logo-ticketveiling-2.png);
+  width: 120px;
+  height: 80px;
+  background-repeat: no-repeat;
+  float: left;
+}
+
+.d-deals {
+  background-image: url(https://wellnesscentrumnederland.nl/wp-content/uploads/2020/02/d-deals-logo.png);
+  width: 120px;
+  height: 80px;
+  background-repeat: no-repeat;
+  float: left;
+}
+
+.ad-webwinkel {
+  background-image: url(https://wellnesscentrumnederland.nl/wp-content/uploads/2020/02/ad-webwinkel-logo.png);
+  width: 120px;
+  height: 80px;
+  background-repeat: no-repeat;
+  float: left;
+}
+
+.zoweg {
+  background-image: url(https://wellnesscentrumnederland.nl/wp-content/uploads/2020/02/zoweg-logo.png);
+  width: 120px;
+  height: 80px;
+  background-repeat: no-repeat;
+  float: left;
+}
+
+.actievandedag {
+  background-image: url(https://wellnesscentrumnederland.nl/wp-content/uploads/2020/02/actievandedag-logo.png);
+  width: 120px;
+  height: 92px;
+  background-repeat: no-repeat;
+  float: left;
+}
+
+.voordeeluitjes {
+  background-image: url(https://wellnesscentrumnederland.nl/wp-content/uploads/2020/02/voordeeluitjes-logo.png);
+  width: 120px;
+  height: 92px;
+  background-repeat: no-repeat;
+  float: left;
+}
+
+.fletcher {
+  background-image: url(https://wellnesscentrumnederland.nl/wp-content/uploads/2020/02/fletcher-logo.png);
+  width: 120px;
+  height: 92px;
+  background-repeat: no-repeat;
+  float: left;
+}
+
+.hotelspecials {
+  background-image: url(https://wellnesscentrumnederland.nl/wp-content/uploads/2020/02/hotelspecials-logo.jpg);
+  width: 120px;
+  height: 92px;
+  background-repeat: no-repeat;
+  float: left;
+}
+
+.fa-wheelchair {
+  font-size: 20px;
+  padding: 5px;
+  font-weight: 600;
+}
